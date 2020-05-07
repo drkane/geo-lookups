@@ -122,9 +122,6 @@ Covers England, Northern Ireland, Scotland and Wales.
 
 Fields:
 
-WDCD,WDNM,LADCD,LADNM,SOURCEFILE,LAD20CD,LAD20NM,UTLACD,UTLANM,CAUTHCD,CAUTHNM,RGNCD,RGNNM,CTRYCD,CTRYNM,EWCD,EWNM,GBCD,GBNM,UKCD,UKNM
-
-
 - `WDCD` - Middle Super Output Area code
 - `WDNM` - Middle Super Output Area name
 - `LADCD` - Local Authority code from source data
