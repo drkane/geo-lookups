@@ -8479,3 +8479,893 @@ W02000284,Merthyr Tydfil 002,Dowlais,W06000024,W06000024,Merthyr Tydfil,W0600002
 W02000287,Merthyr Tydfil 005,Pentre-bach & Mountain Hare,W06000024,W06000024,Merthyr Tydfil,W06000024,Merthyr Tydfil,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 W02000286,Merthyr Tydfil 004,Gelli-deg & Town,W06000024,W06000024,Merthyr Tydfil,W06000024,Merthyr Tydfil,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 W02000415,Merthyr Tydfil 008,"Gurnos, Trefechan & Pontsticill",W06000024,W06000024,Merthyr Tydfil,W06000024,Merthyr Tydfil,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+95AA01S1,Aldergrove 1,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95AA01S2,Aldergrove 2,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95AA01S3,Aldergrove 3,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95AA02W1,Balloo,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95AA03W1,Ballycraigy,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95AA08W1,Farranshane,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95AA04W1,Clady,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95AA05W1,Cranfield,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95AA06S1,Crumlin 1 (Antrim LGD),,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95AA06S2,Crumlin 2 (Antrim LGD),,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95AA07W1,Drumanaway,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW15S1,Glebe 1 (Newtownabbey LGD),,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW15S2,Glebe 2 (Newtownabbey LGD),,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95AA09W1,Fountain Hill,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95AA10W1,Greystone (Antrim LGD),,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95AA11S1,Massereene 1,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95AA11S2,Massereene 2,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95AA12W1,Parkgate,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95AA13S1,Randalstown 1,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95AA13S2,Randalstown 2,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95AA14W1,Shilvodan,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95AA15S1,Springfarm 1,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW20S2,Mallusk 2,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95AA15S2,Springfarm 2,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW16S1,Glengormley 1,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW20S3,Mallusk 3,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW16S2,Glengormley 2,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95AA16W1,Steeple,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW21S1,Monkstown 1,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW17W1,Hawthorne,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95AA17W1,Stiles,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW21S2,Monkstown 2,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW22S1,Mossley 1,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW22S2,Mossley 2,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW23S1,Rostulla 1,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW23S2,Rostulla 2,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW24S1,Valley 1,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW24S2,Valley 2,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW25W1,Whitehouse,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW03S1,Ballyclare South 1,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW09S1,Carnmoney 1,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW03S2,Ballyclare South 2,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW04S1,Ballyduff 1,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW04S2,Ballyduff 2,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW18W1,Hightown,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW05S1,Ballyhenry 1,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW05S2,Ballyhenry 2,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW06S1,Ballynure 1,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW06S2,Ballynure 2,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW07S1,Ballyrobert 1,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW07S2,Ballyrobert 2,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW08S1,Burnthill 1,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW08S2,Burnthill 2,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95AA18W1,Templepatrick,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW09S2,Carnmoney 2,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95CC01W1,Abbey Park,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95AA19W1,Toome,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW01S1,Abbey 1,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW01S2,Abbey 2,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW02S1,Ballyclare North 1,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW02S2,Ballyclare North 2,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW10S1,Cloughfern 1,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW19S1,Jordanstown 1,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW19S2,Jordanstown 2,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW19S3,Jordanstown 3,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW20S1,Mallusk 1,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW10S2,Cloughfern 2,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW11S1,Collinbridge 1,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW11S2,Collinbridge 2,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW12W1,Coole,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW13S1,Doagh 1,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW13S2,Doagh 2,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95WW14W1,Dunanney,,N09000001,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95CC02W1,Ballymartrim,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95CC03W1,Callan Bridge,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95CC04W1,Carrigatuke,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95CC05W1,Charlemont,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95CC06S1,Demesne 1,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95CC06S2,Demesne 2,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95CC07W1,Derrynoose,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95CC08W1,Downs,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95CC09S1,Hamiltonsbawn 1,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95CC17W1,Milford,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95CC18W1,Observatory,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95CC19W1,Poyntz Pass,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95CC09S2,Hamiltonsbawn 2,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95CC20S1,Rich Hill 1,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95CC20S2,Rich Hill 2,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95CC21W1,Tandragee,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL08S1,Corcrain 1,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95CC22W1,The Mall,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95FF01S1,Ballydown 1,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95FF01S2,Ballydown 2,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95FF03W1,Banbridge West,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95FF04W1,Bannside,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL13S2,Drumgor 2,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL02S1,Annagh 1,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL14S1,Drumnamoe 1,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL02S2,Annagh 2,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL08S2,Corcrain 2,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95FF11W1,Katesbridge,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95CC10W1,Hockley,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95CC11W1,Keady,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95CC12W1,Killeen,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95CC13W1,Killylea,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95CC14W1,Laurelvale,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95CC15W1,Loughgall,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95CC16W1,Markethill,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL19S2,Magheralin 2,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95FF05W1,Dromore North,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL14S2,Drumnamoe 2,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95FF06S1,Dromore South 1,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95FF06S2,Dromore South 2,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95FF07W1,Edenderry,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95FF08W1,Fort,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95FF09W1,Gilford,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95FF10W1,Gransha,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95FF12W1,Lawrencetown,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL15S1,Edenderry 1,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL03W1,Ballybay,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL04W1,Ballyoran,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL05S1,Bleary 1,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL05S2,Bleary 2,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL06S1,Brownstown 1,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL06S2,Brownstown 2,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL07W1,Church,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL09S1,Court 1,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL20W1,Mourneview,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL15S2,Edenderry 2,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95FF13W1,Loughbrickland,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95FF14W1,Quilly,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95FF15W1,Rathfriland,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95FF16W1,Seapatrick,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95FF17W1,The Cut,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL01S1,Aghagallon 1,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL01S2,Aghagallon 2,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL09S2,Court 2,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL16S1,Kernan 1,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL10S1,Derrytrasna 1,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL10S2,Derrytrasna 2,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL11S1,Donaghcloney 1,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL11S2,Donaghcloney 2,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL12S1,Drumgask 1,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL12S2,Drumgask 2,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL13S1,Drumgor 1,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL16S2,Kernan 2,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL17W1,Killycomain,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL18S1,Knocknashane 1,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL18S2,Knocknashane 2,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL19S1,Magheralin 1,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL21W1,Parklake,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL22W1,Taghnevan,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL23W1,Tavanagh,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL24S1,The Birches 1,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL24S2,The Birches 2,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL25S1,Waringstown 1,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG12S1,Botanic 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG06S1,Ballysillan 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG14S3,Cavehill 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG18S1,Clonard 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG12S2,Botanic 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG12S3,Botanic 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG12S4,Botanic 4,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG12S5,Botanic 5,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG13S1,Castleview 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG13S2,Castleview 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG13S3,Castleview 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG14S1,Cavehill 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG14S2,Cavehill 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG21S3,Falls 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG08S3,Bellevue 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG03S1,Ballyhackamore 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG22S1,Falls Park 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG15S1,Cherryvalley 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG15S2,Cherryvalley 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG15S3,Cherryvalley 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG16S1,Chichester Park 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG09S1,Belmont 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL25S2,Waringstown 2,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG16S2,Chichester Park 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG16S3,Chichester Park 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG17S1,Cliftonville 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG17S2,Cliftonville 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG17S3,Cliftonville 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG22S2,Falls Park 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL26S1,Woodville 1,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95LL26S2,Woodville 2,,N09000002,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG01S1,Andersonstown 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG01S2,Andersonstown 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG01S3,Andersonstown 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG02S1,Ardoyne 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG02S2,Ardoyne 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG02S3,Ardoyne 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG06S2,Ballysillan 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG18S2,Clonard 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG22S3,Falls Park 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG23S1,Finaghy 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG23S2,Finaghy 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG23S3,Finaghy 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG24S1,Fortwilliam 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG24S2,Fortwilliam 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG24S3,Fortwilliam 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG25S1,Glen Road 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG09S2,Belmont 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG03S2,Ballyhackamore 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG06S3,Ballysillan 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG19S1,Crumlin 1 (Belfast LGD),,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG03S3,Ballyhackamore 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG07S1,Beechmount 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG07S2,Beechmount 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG07S3,Beechmount 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG08S1,Bellevue 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG08S2,Bellevue 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG19S2,Crumlin 2 (Belfast LGD),,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG09S3,Belmont 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG04S1,Ballymacarrett 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG20S1,Duncairn 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG20S2,Duncairn 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG21S1,Falls 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG21S2,Falls 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG04S2,Ballymacarrett 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG04S3,Ballymacarrett 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG05S1,Ballynafeigh 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG05S2,Ballynafeigh 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG05S3,Ballynafeigh 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG10S1,Blackstaff 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG10S2,Blackstaff 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG11S1,Bloomfield 1 (Belfast LGD),,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG11S2,Bloomfield 2 (Belfast LGD),,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG11S3,Bloomfield 3 (Belfast LGD),,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG31S3,Ladybrook 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG41S3,Stormont 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG32S1,Legoniel 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG25S2,Glen Road 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG28S2,Highfield 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG35S2,New Lodge 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG47S2,Water Works 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG44S2,The Mount 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG32S2,Legoniel 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG32S3,Legoniel 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG33S1,Malone 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG38S2,Rosetta 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG33S2,Malone 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG33S3,Malone 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG34S1,Musgrave 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG34S2,Musgrave 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG34S3,Musgrave 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG35S1,New Lodge 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG47S3,Water Works 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG28S3,Highfield 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG35S3,New Lodge 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG38S3,Rosetta 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG48S1,Whiterock 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG45S1,Upper Malone 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG42S1,Stranmillis 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG29S1,Island 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG36S1,Orangefield 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG25S3,Glen Road 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG48S2,Whiterock 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG39S1,Shaftesbury 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG42S2,Stranmillis 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG29S2,Island 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG45S2,Upper Malone 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG42S3,Stranmillis 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG36S2,Orangefield 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG26S1,Glencairn 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG48S3,Whiterock 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG49S1,Windsor 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG49S2,Windsor 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG49S3,Windsor 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG49S4,Windsor 4,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG50S1,Woodstock 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG42S4,Stranmillis 4,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG30S1,Knock 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG39S2,Shaftesbury 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG45S3,Upper Malone 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG36S3,Orangefield 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG26S2,Glencairn 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG27S1,Glencolin 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG27S2,Glencolin 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG27S3,Glencolin 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG27S4,Glencolin 4,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG28S1,Highfield 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG43S1,Sydenham 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG37S1,Ravenhill 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG37S2,Ravenhill 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG37S3,Ravenhill 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG38S1,Rosetta 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG43S2,Sydenham 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG43S3,Sydenham 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG44S1,The Mount 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG30S2,Knock 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG46S1,Upper Springfield 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG46S2,Upper Springfield 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG46S3,Upper Springfield 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG47S1,Water Works 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG30S3,Knock 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG31S1,Ladybrook 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG31S2,Ladybrook 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG39S3,Shaftesbury 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG40S1,Shankill 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG40S2,Shankill 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG41S1,Stormont 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG41S2,Stormont 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II08W1,Downshire,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II12W1,Gilnahirk,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II14W1,Hillfoot,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95JJ02W1,Atlantic,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS16S2,Kilwee 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II16W1,Lisnasharragh,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II17W1,Lower Braniel,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II18W1,Minnowburn,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95JJ16W1,Portstewart,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II22W1,Upper Braniel,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II21W1,Tullycarnet,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95JJ08S2,Dundooan 2,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95EE07W1,Fairhill,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS26S1,Poleglass 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS26S2,Poleglass 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS29S1,Twinbrook 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS29S2,Twinbrook 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95EE01W1,Ballyhoe and Corkey,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95EE02W1,Benvardin,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95EE03W1,Carnany,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95EE04W1,Clogh Mills,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95EE05W1,Dervock,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95EE06W1,Dunloy,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95EE08W1,Glebe,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95JJ09W1,Dunluce,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95JJ03S1,Ballysally 1,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95JJ03S2,Ballysally 2,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95JJ04S1,Castlerock 1,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95JJ04S2,Castlerock 2,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95JJ05W1,Central (Coleraine LGD),,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95JJ06W1,Churchland,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95JJ07W1,Cross Glebe,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95JJ08S1,Dundooan 1,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II23W1,Wynchurch,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95JJ17W1,Ringsend,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS06S1,Collin Glen 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95JJ10W1,Garvagh,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95JJ11S1,Hopefield 1,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95JJ11S2,Hopefield 2,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95JJ12W1,Kilrea,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95JJ13S1,Knocklynn 1,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95JJ13S2,Knocklynn 2,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95JJ14W1,Macosquin,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95JJ15W1,Mount Sandel,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95JJ18W1,Royal Portrush,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS06S2,Collin Glen 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95EE09W1,Killoquin Lower,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95JJ19S1,Strand 1 (Coleraine LGD),,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95JJ19S2,Strand 2 (Coleraine LGD),,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95JJ20S1,The Cuts 1,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95JJ20S2,The Cuts 2,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95JJ21W1,University,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95JJ22W1,Waterside,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95RR01S1,Aghanloo 1,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95RR01S2,Aghanloo 2,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95RR02W1,Ballykelly,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS06S3,Collin Glen 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS07S1,Derryaghy 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS07S2,Derryaghy 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS10S1,Dunmurry 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS10S2,Dunmurry 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS16S1,Kilwee 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95EE10W1,Killoquin Upper,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95EE11W1,Knockaholet,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95EE12W1,Newhill,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95EE13W1,Route,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95EE14W1,Seacon,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95EE15W1,Stranocum,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95EE16W1,The Vow,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95JJ01W1,Agivey,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG50S2,Woodstock 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG50S3,Woodstock 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG51S1,Woodvale 1,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG51S2,Woodvale 2,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95GG51S3,Woodvale 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II02S3,Beechill 3,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II07W1,Cregagh,,N09000003,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95RR12W1,Rathbrady,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95RR13W1,Roeside,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95RR14W1,The Highlands,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95RR15W1,Upper Glenshane,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM25S1,Shantallow West 1,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95RR03W1,Coolessan,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95UU99C1,Armoy and Moss-Side and Moyarget,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95UU99C2,Ballylough and Bushmills,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95UU99C3,Bonamargy and Rathlin and Glenshesk,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95UU99C4,Carnmoon and Dunseverick,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95UU06W1,Dalriada,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM17S2,Foyle Springs 2,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95UU99C6,Glentaisie and Kinbane,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95ZZ01W1,Artigarvan,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95UU99C5,Glenaan and Glendun,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95UU09W1,Glenariff,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM12S2,Crevagh 2,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM05W1,Brandywell,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM06S1,Carn Hill 1,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM06S2,Carn Hill 2,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM07W1,Caw,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM08S1,Clondermot 1,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM08S2,Clondermot 2,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM09S1,Claudy 1,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM09S2,Claudy 2,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM10S1,Creggan Central 1,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM10S2,Creggan Central 2,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM11W1,Creggan South,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM12S1,Crevagh 1,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95RR04W1,Dungiven,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95RR05S1,Enagh 1 (Limavady LGD),,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95RR05S2,Enagh 2 (Limavady LGD),,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95RR06W1,Feeny,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM12S3,Crevagh 3,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95RR07W1,Forest,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM18S1,Holly Mount 1,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95RR08W1,Glack,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95RR09S1,Gresteel 1,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95RR09S2,Gresteel 2,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95RR10W1,Greystone (Limavady LGD),,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95RR11W1,Magilligan,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95ZZ02W1,Ballycolman,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95ZZ03W1,Castlederg,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM18S2,Holly Mount 2,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM19S1,Kilfennan 1,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95ZZ04W1,Clare,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95ZZ05W1,Dunnamanagh,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95ZZ06W1,East,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95ZZ07W1,Finn,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95ZZ08W1,Glenderg,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95ZZ09W1,Newtownstewart,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95ZZ10W1,North,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM25S2,Shantallow West 2,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM19S2,Kilfennan 2,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95UU14W1,Knocklayd,,N09000004,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM20S1,Lisnagelvin 1,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM01S1,Altnagelvin 1,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM25S3,Shantallow West 3,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM13S1,Culmore 1,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM25S4,Shantallow West 4,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM20S2,Lisnagelvin 2,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM13S2,Culmore 2,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM26S1,Springtown 1,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM13S3,Culmore 3,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM13S4,Culmore 4,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM13S5,Culmore 5,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM14S1,Ebrington 1,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM14S2,Ebrington 2,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM15S1,Eglinton 1,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM15S2,Eglinton 2,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM16S1,Enagh 1 (Derry LGD),,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM16S2,Enagh 2 (Derry LGD),,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM17S1,Foyle Springs 1,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM21S1,New Buildings 1,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM21S2,New Buildings 2,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM22S1,Pennyburn 1,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM22S2,Pennyburn 2,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM23W1,Rosemount,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM24W1,Shantallow East,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM01S2,Altnagelvin 2,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM26S2,Springtown 2,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM27S1,Strand 1 (Derry LGD),,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM27S2,Strand 2 (Derry LGD),,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM28W1,The Diamond,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM29W1,Victoria (Derry LGD),,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM30W1,Westland,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM01S3,Altnagelvin 3,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM02S1,Ballynashallog 1,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM02S2,Ballynashallog 2,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM03W1,Banagher,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95MM04W1,Beechwood,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95PP17W1,Lisnaskea,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95PP18W1,Maguiresbridge,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95PP19W1,Newtownbutler,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95PP20W1,Portora,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95PP21W1,Rosslea,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95PP22W1,Rossorry,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95PP23W1,Tempo,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95YY01W1,Beragh,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II06S2,Carryduff West 2,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95PP02W1,Belcoo and Garrison,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95PP09W1,Devenish,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95YY02W1,Camowen,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95YY21W1,Trillick,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95PP03W1,Belleek and Boa,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95PP10W1,Donagh,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II01S1,Ballyhanwood 1,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II09S1,Dundonald 1,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II09S2,Dundonald 2,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II10W1,Enler,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II11W1,Galwally,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II13W1,Graham's Bridge,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II15S1,Knockbracken 1,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II15S2,Knockbracken 2,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95YY11W1,Fintona,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95PP04W1,Boho Cleenish and Letterbreen,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95PP05W1,Brookeborough,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95PP06S1,Castlecoole 1,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95PP06S2,Castlecoole 2,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95PP07W1,Derrygonnelly,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95PP08W1,Derrylin,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95PP11W1,Erne,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95PP12W1,Florence Court and Kinawley,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95PP13W1,Irvinestown,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95PP14S1,Kesh Ederney and Lack 1,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95PP14S2,Kesh Ederney and Lack 2,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95PP15W1,Lisbellaw,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95ZZ11W1,Plumbridge,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95PP16W1,Lisnarrick,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II01S2,Ballyhanwood 2,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95YY03W1,Clanabogan,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95YY12W1,Gortin,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II02S1,Beechill 1,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95YY13S1,Gortrush 1,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95YY13S2,Gortrush 2,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95YY14S1,Killyclogher 1,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95YY14S2,Killyclogher 2,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95YY15S1,Lisanelly 1,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95YY15S2,Lisanelly 2,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95YY16W1,Newtownsaville,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95YY17W1,Owenkillew,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95YY18W1,Sixmilecross,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95YY19W1,Strule,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95YY20W1,Termon,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II02S2,Beechill 2,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II03S1,Cairnshill 1,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II03S2,Cairnshill 2,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II04S1,Carrowreagh 1,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II04S2,Carrowreagh 2,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II05S1,Carryduff East 1,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II05S2,Carryduff East 2,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II06S1,Carryduff West 1,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95YY04W1,Coolnagard,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95YY05W1,Dergmoney,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95YY06W1,Dromore,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95YY07W1,Drumnakilly,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95YY08W1,Drumquin,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95YY09W1,Drumragh,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95YY10W1,Fairy Water,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95ZZ12W1,Sion Mills,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95ZZ13W1,Slievekirk,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95ZZ14S1,South 1,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95ZZ14S2,South 2,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95ZZ15W1,Victoria Bridge,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95ZZ16S1,West 1,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95ZZ16S2,West 2,,N09000005,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95PP01W1,Ballinamallard,,N09000006,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS04S1,Ballymacoss 1,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS04S2,Ballymacoss 2,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS04S3,Ballymacoss 3,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS05S1,Blaris 1,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS05S2,Blaris 2,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS07S3,Derryaghy 3,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS08S1,Dromara 1,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS08S2,Dromara 2,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS09S1,Drumbo 1,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS09S2,Drumbo 2,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS11S1,Glenavy 1,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95DD08W1,Castle Demesne,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95DD15W1,Glenravel,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II19S1,Moneyreagh 1,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS17S1,Knockmore 1,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95DD01W1,Academy,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS22S2,Magheralave 2,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS17S2,Knockmore 2,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS11S2,Glenavy 2,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS23S1,Maze 1,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95DD16W1,Glenwhirry,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95DD02S1,Ahoghill 1,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95DD09W1,Craigywarren,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS18S1,Lagan Valley 1,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II19S2,Moneyreagh 2,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95DD10W1,Cullybackey,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95DD17W1,Grange,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95DD18W1,Harryville,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95DD19S1,Kells 1,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95DD19S2,Kells 2,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95DD20W1,Moat,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95DD21W1,Park,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95DD22S1,Portglenone 1,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95DD22S2,Portglenone 2,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS12W1,Harmony Hill,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95DD02S2,Ahoghill 2,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS23S2,Maze 2,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS18S2,Lagan Valley 2,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95II20W1,Newtownbreda,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS01S1,Ballinderry 1,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS01S2,Ballinderry 2,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS02S1,Ballymacash 1,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS02S2,Ballymacash 2,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS03S1,Ballymacbrennan 1,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS03S2,Ballymacbrennan 2,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS13S1,Hilden 1,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95DD11W1,Dunclug,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS19S1,Lambeg 1,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95DD03W1,Ardeevin,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS24S1,Moira 1,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS13S2,Hilden 2,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS14S1,Hillhall 1,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS14S2,Hillhall 2,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS15S1,Hillsborough 1,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS15S2,Hillsborough 2,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS24S2,Moira 2,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS19S2,Lambeg 2,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95DD04W1,Ballee,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95DD12W1,Dunminning,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS25W1,Old Warren,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS27W1,Seymour Hill,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS28W1,Tonagh,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS30S1,Wallace Park 1,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS30S2,Wallace Park 2,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95DD13W1,Fair Green,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95DD14S1,Galgorm 1,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95DD14S2,Galgorm 2,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS20W1,Lisnagarvey,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95DD05W1,Ballykeel,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95DD06W1,Ballyloughan,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95DD07S1,Broughshane 1,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95DD07S2,Broughshane 2,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS21S1,Maghaberry 1,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS21S2,Maghaberry 2,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95SS22S1,Magheralave 1,,N09000007,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95HH06S1,Eden 1,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95HH06S2,Eden 2,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95HH07W1,Gortalee,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95HH08W1,Greenisland,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95HH09W1,Killycrot,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95HH10W1,Knockagh,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95HH11W1,Love Lane,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95HH12W1,Milebush,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95HH13W1,Northland,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95HH14W1,Sunnylands,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95OO10W1,Coalisland North,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95QQ13W1,Island Magee,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95DD23W1,Slemish,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95QQ14S1,Kilwaughter 1,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95OO11W1,Coalisland South,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95KK07W1,Lissan,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95QQ14S2,Kilwaughter 2,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95QQ15W1,Town Parks,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95KK01W1,Ardboe,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95KK02W1,Coagh,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95KK03W1,Dunnamore,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95KK04W1,Gortalowry,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95KK05W1,Killycolpy,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95KK06W1,Killymoon,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95OO01W1,Altmore,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95QQ05W1,Carncastle,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95HH15W1,Victoria (Carrickfergus LGD),,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95HH16W1,Whitehead,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95HH17W1,Woodburn,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95QQ01W1,Antiville,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95QQ02W1,Ballycarry,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95QQ03W1,Ballyloran,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95QQ04W1,Blackcave,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95OO12W1,Coalisland West and Newmills,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95OO02W1,Augher,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95DD24W1,Summerfield,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95OO13W1,Coolhill,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95QQ06W1,Carnlough,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95OO14W1,Donaghmore,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95OO15W1,Drumglass,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95OO16W1,Fivemiletown,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95KK08W1,Moneymore,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95OO17W1,Killyman,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95OO18W1,Killymeal,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95OO19W1,Moy,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95OO20W1,Moygashel,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95HH01W1,Blackhead,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95HH02S1,Bluefield 1,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95OO03W1,Aughnacloy,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95HH02S2,Bluefield 2,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95HH03W1,Boneybefore,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95HH04S1,Burleigh Hill 1,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95HH04S2,Burleigh Hill 2,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95HH05W1,Clipperstown,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95QQ07W1,Central (Larne LGD),,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95KK09W1,Newbuildings,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95KK10W1,Oaklands,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95OO04W1,Ballygawley,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95OO05W1,Ballysaggart,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95OO06W1,Benburb,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95OO07W1,Caledon,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95OO08W1,Castlecaulfield,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95OO09W1,Clogher,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95QQ08W1,Craigy Hill,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95QQ09W1,Gardenmore,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95QQ10W1,Glenarm,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95QQ11W1,Glynn,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95QQ12W1,Harbour,,N09000008,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95KK11W1,Oldtown,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95KK12W1,Pomeroy,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95KK13W1,Sandholes,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95KK14W1,Stewartstown,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95KK15W1,The Loop,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95KK16W1,Tullagh,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV10S2,Daisy Hill 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN05W1,Ballynahinch East,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN06S1,Castlewellan 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV11S1,Derryleckagh 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN06S2,Castlewellan 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN07S1,Cathedral 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN07S2,Cathedral 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV11S2,Derryleckagh 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN13W1,Dunmore,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV12S1,Derrymore 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV12S2,Derrymore 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV13S1,Donaghmore 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV13S2,Donaghmore 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95TT07W1,Knockcloghrim,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV14S1,Drumalane 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV14S2,Drumalane 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV15S1,Drumgullion 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV15S2,Drumgullion 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95TT15W1,Upperlands,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV16W1,Fathom,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN08S1,Crossgar 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN08S2,Crossgar 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95TT16W1,Valley,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95FF02W1,Ballyward,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN01S1,Ardglass 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN01S2,Ardglass 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN02W1,Audley's Acre,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN03S1,Ballymaglave 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN03S2,Ballymaglave 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN04W1,Ballymote,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95TT08W1,Lecumpher,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN14S1,Killough 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN14S2,Killough 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN15W1,Killyleagh,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN16S1,Kilmore 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN16S2,Kilmore 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN09S1,Derryboy 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN17W1,Murlough,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN18S1,Quoile 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN18S2,Quoile 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN19S1,Saintfield 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN19S2,Saintfield 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN20W1,Seaforde,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN09S2,Derryboy 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN10S1,Donard 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN10S2,Donard 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN11S1,Drumaness 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN11S2,Drumaness 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN12W1,Dundrum,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95TT09S1,Lower Glenshane 1,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95TT09S2,Lower Glenshane 2,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95TT10W1,Maghera,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95TT11S1,Swatragh 1,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95TT11S2,Swatragh 2,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95TT12W1,Tobermore,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95TT13S1,Town Parks East 1,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95TT13S2,Town Parks East 2,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95TT14W1,Town Parks West,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95OO21W1,Mullaghmore,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95OO22W1,Washing Bay,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95TT01W1,Ballymaguigan,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95TT02W1,Bellaghy,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95TT03S1,Castledawson 1,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95TT03S2,Castledawson 2,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95TT04W1,Draperstown,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95TT05S1,Glebe 1 (Magherafelt LGD),,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95TT05S2,Glebe 2 (Magherafelt LGD),,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95TT06W1,Gulladuff,,N09000009,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN21W1,Shimna,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN22W1,Strangford,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN23S1,Tollymore 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95NN23S2,Tollymore 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV01S1,Annalong 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV01S2,Annalong 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV02W1,Ballybot,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV03W1,Bessbrook,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV04W1,Binnian,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV05S1,Burren and Kilbroney 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV05S2,Burren and Kilbroney 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV06W1,Camlough,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV07S1,Clonallan 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV07S2,Clonallan 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV08W1,Creggan,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV09W1,Crossmaglen,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV10S1,Daisy Hill 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV17S1,Forkhill 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV17S2,Forkhill 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV18S1,Kilkeel Central 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV18S2,Kilkeel Central 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB07S1,Comber East 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB22S2,Scrabo 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV19S1,Kilkeel South 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV19S2,Kilkeel South 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV20W1,Lisnacree,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB12S1,Glen 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV21S1,Mayobridge 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV21S2,Mayobridge 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV22W1,Newtownhamilton,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV23W1,Rostrevor,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX05W1,Bangor Castle,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB17S2,Loughries 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB01S2,Ballygowan 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV24S1,Seaview 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB23S1,Whitespots 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB18S1,Millisle 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB12S2,Glen 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB07S2,Comber East 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB23S2,Whitespots 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX01S1,Ballycrochan 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX01S2,Ballycrochan 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX01S3,Ballycrochan 3,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX02W1,Ballyholme,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX03S1,Ballymaconnell 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX03S2,Ballymaconnell 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX04S1,Ballymagee 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX04S2,Ballymagee 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB02W1,Ballyrainey,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB13S1,Gregstown 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV24S2,Seaview 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX06S1,Bloomfield 1 (North Down LGD),,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB18S2,Millisle 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB08S1,Comber North 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB13S2,Gregstown 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV25S1,Silver Bridge 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB08S2,Comber North 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB19S1,Movilla 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX06S2,Bloomfield 2 (North Down LGD),,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB13S3,Gregstown 3,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV25S2,Silver Bridge 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB09S1,Comber West 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB03S1,Ballywalter 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB14S1,Killinchy 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB19S2,Movilla 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX07S1,Broadway 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX07S2,Broadway 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX08S1,Bryansburn 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX08S2,Bryansburn 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX09S1,Churchill 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX09S2,Churchill 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX10S1,Clandeboye 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX10S2,Clandeboye 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB09S2,Comber West 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB03S2,Ballywalter 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB14S2,Killinchy 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB04S1,Bradshaw's Brae 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB04S2,Bradshaw's Brae 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB05S1,Carrowdore 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB05S2,Carrowdore 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB06W1,Central (Ards LGD),,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV26W1,Spelga,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB15S1,Kircubbin 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB19S3,Movilla 3,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB10S1,Donaghadee North 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB15S2,Kircubbin 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB16S1,Lisbane 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB16S2,Lisbane 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB17S1,Loughries 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB10S2,Donaghadee North 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB20S1,Portaferry 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB20S2,Portaferry 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB21S1,Portavogie 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB21S2,Portavogie 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB22S1,Scrabo 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB11S1,Donaghadee South 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB11S2,Donaghadee South 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV27W1,St Mary's,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV28S1,St Patrick's 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV28S2,St Patrick's 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV29W1,Tullyhappy,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV30S1,Windsor Hill 1,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95VV30S2,Windsor Hill 2,,N09000010,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95BB01S1,Ballygowan 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX17S2,Harbour 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX18W1,Holywood Demesne,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX19W1,Holywood Priory,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX20S1,Loughview 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX20S2,Loughview 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX21W1,Princetown,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX22W1,Rathgael,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX23W1,Silverstream,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX24S1,Springhill 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX24S2,Springhill 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX25W1,Whitehill,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX10S3,Clandeboye 3,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX11S1,Conlig 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX11S2,Conlig 2,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX11S3,Conlig 3,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX12W1,Craigavad,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX13W1,Crawfordsburn,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX14W1,Cultra,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX15W1,Dufferin,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX16W1,Groomsport,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+95XX17S1,Harbour 1,,N09000011,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
