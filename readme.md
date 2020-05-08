@@ -60,6 +60,8 @@ Fields:
 - `GBNM` - Great Britain name
 - `UKCD` - United Kingdom code
 - `UKNM` - United Kingdom name
+- `TTWA11CD` - Travel to work area code
+- `TTWA11NM` - Travel to work area name
 
 ## [`lsoa_latlong.csv`](lsoa_latlong.csv)
 
