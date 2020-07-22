@@ -124,8 +124,8 @@ Covers England, Northern Ireland, Scotland and Wales.
 
 Fields:
 
-- `WDCD` - Middle Super Output Area code
-- `WDNM` - Middle Super Output Area name
+- `WDCD` - Ward code
+- `WDNM` - Ward name
 - `LADCD` - Local Authority code from source data
 - `LADNM` - Local Authority name from source data
 - `SOURCEFILE` - Source year for the ward data
