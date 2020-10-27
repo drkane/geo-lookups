@@ -2,6 +2,12 @@
 
 A collection of data resources for handling small-area UK geography.
 
+## [Boundary files](boundaries/)
+
+A collection of geojson files for local authorities that give the boundaries of wards, LSOAs and MSOAs within that authority.
+
+- [`boundaries/`](boundaries/)
+
 ## [`la_all_codes.csv`](la_all_codes.csv)
 
 A record for each Local Authority that has existed at any time since 2011, with a lookup to the latest Local Authority codes.
