@@ -10,7 +10,7 @@ A collection of geojson files for local authorities that give the boundaries of 
 
 ## [`la_all_codes.csv`](la_all_codes.csv)
 
-A record for each Local Authority that has existed at any time since 2011, with a lookup to the latest Local Authority codes.
+A record for each Lower Tier Local Authority that has existed at any time since 2011, with a lookup to the latest Local Authority codes.
 
 Covers England, Northern Ireland, Scotland and Wales.
 
@@ -35,6 +35,29 @@ Fields:
 - `UKCD` - United Kingdom code
 - `UKNM` - United Kingdom name
 - `Current` - Whether the LA is currently active
+
+## [`utla_all_codes.csv`](la_all_codes.csv)
+
+A record for each Upper Tier Local Authority.
+
+Covers England, Northern Ireland, Scotland and Wales.
+
+Fields:
+
+- `UTLACD` - Upper tier local authority code
+- `UTLANM` - Upper tier local authority name
+- `CAUTHCD` - Combined authority code
+- `CAUTHNM` - Combined authority name
+- `RGNCD` - Region code
+- `RGNNM` - Region name
+- `CTRYCD` - Country code
+- `CTRYNM` - Country name
+- `EWCD` - England and Wales code
+- `EWNM` - England and Wales name
+- `GBCD` - Great Britain code
+- `GBNM` - Great Britain name
+- `UKCD` - United Kingdom code
+- `UKNM` - United Kingdom name
 
 ## [`lsoa_la.csv`](lsoa_la.csv)
 
