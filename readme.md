@@ -36,7 +36,7 @@ Fields:
 - `UKNM` - United Kingdom name
 - `Current` - Whether the LA is currently active
 
-## [`utla_all_codes.csv`](la_all_codes.csv)
+## [`utla_all_codes.csv`](utla_all_codes.csv)
 
 A record for each Upper Tier Local Authority.
 
