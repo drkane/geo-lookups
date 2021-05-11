@@ -36,6 +36,12 @@ Fields:
 - `UKNM` - United Kingdom name
 - `Current` - Whether the LA is currently active
 
+The following columns are included for compatability but are deprecated
+and can expected to be removed in future versions:
+
+- `LAD20CD` - Local Authority (2020) code
+- `LAD20NM` - Local Authority (2020) name
+
 ## [`utla_all_codes.csv`](utla_all_codes.csv)
 
 A record for each Upper Tier Local Authority.
@@ -92,6 +98,12 @@ Fields:
 - `TTWA11CD` - Travel to work area code
 - `TTWA11NM` - Travel to work area name
 
+The following columns are included for compatability but are deprecated
+and can expected to be removed in future versions:
+
+- `LAD20CD` - Local Authority (2020) code
+- `LAD20NM` - Local Authority (2020) name
+
 ## [`lsoa_latlong.csv`](lsoa_latlong.csv)
 
 A record for every Lower Super Output Area from the 2011 census, along with the latitude and longitude of the centre of the area.
@@ -132,6 +144,12 @@ Fields:
 - `GBNM` - Great Britain name
 - `UKCD` - United Kingdom code
 - `UKNM` - United Kingdom name
+
+The following columns are included for compatability but are deprecated
+and can expected to be removed in future versions:
+
+- `LAD20CD` - Local Authority (2020) code
+- `LAD20NM` - Local Authority (2020) name
 
 ## [`msoa_latlong.csv`](msoa_latlong.csv)
 
@@ -175,6 +193,12 @@ Fields:
 - `GBNM` - Great Britain name
 - `UKCD` - United Kingdom code
 - `UKNM` - United Kingdom name
+
+The following columns are included for compatability but are deprecated
+and can expected to be removed in future versions:
+
+- `LAD20CD` - Local Authority (2020) code
+- `LAD20NM` - Local Authority (2020) name
 
 ## [`ward_latlong.csv`](ward_latlong.csv)
 
