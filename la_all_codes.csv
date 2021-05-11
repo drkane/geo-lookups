@@ -1,4 +1,4 @@
-LADCD,LADNM,LAD20CD,LAD20NM,UTLACD,UTLANM,CAUTHCD,CAUTHNM,RGNCD,RGNNM,CTRYCD,CTRYNM,EWCD,EWNM,GBCD,GBNM,UKCD,UKNM,Current
+LADCD,LADNM,LADCD_ACTIVE,LADNM_ACTIVE,UTLACD,UTLANM,CAUTHCD,CAUTHNM,RGNCD,RGNNM,CTRYCD,CTRYNM,EWCD,EWNM,GBCD,GBNM,UKCD,UKNM,Current
 E06000001,Hartlepool,E06000001,Hartlepool,E06000001,Hartlepool,E47000006,Tees Valley,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,TRUE
 E06000002,Middlesbrough,E06000002,Middlesbrough,E06000002,Middlesbrough,E47000006,Tees Valley,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,TRUE
 E06000003,Redcar and Cleveland,E06000003,Redcar and Cleveland,E06000003,Redcar and Cleveland,E47000006,Tees Valley,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,TRUE
@@ -59,6 +59,8 @@ E06000057,Northumberland,E06000057,Northumberland,E06000057,Northumberland,E4700
 E06000058,"Bournemouth, Christchurch and Poole",E06000058,"Bournemouth, Christchurch and Poole",E06000058,"Bournemouth, Christchurch and Poole",,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,TRUE
 E06000059,Dorset,E06000059,Dorset,E06000059,Dorset,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,TRUE
 E06000060,Buckinghamshire,E06000060,Buckinghamshire,E06000060,Buckinghamshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,TRUE
+E06000061,North Northamptonshire,E06000061,North Northamptonshire,E06000061,North Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,TRUE
+E06000062,West Northamptonshire,E06000062,West Northamptonshire,E06000062,West Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,TRUE
 E07000004,Aylesbury Vale,E06000060,Buckinghamshire,E06000060,Buckinghamshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,FALSE
 E07000005,Chiltern,E06000060,Buckinghamshire,E06000060,Buckinghamshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,FALSE
 E07000006,South Bucks,E06000060,Buckinghamshire,E06000060,Buckinghamshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,FALSE
@@ -185,13 +187,13 @@ E07000146,King's Lynn and West Norfolk,E07000146,King's Lynn and West Norfolk,E1
 E07000147,North Norfolk,E07000147,North Norfolk,E10000020,Norfolk,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,TRUE
 E07000148,Norwich,E07000148,Norwich,E10000020,Norfolk,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,TRUE
 E07000149,South Norfolk,E07000149,South Norfolk,E10000020,Norfolk,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,TRUE
-E07000150,Corby,E07000150,Corby,E10000021,Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,TRUE
-E07000151,Daventry,E07000151,Daventry,E10000021,Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,TRUE
-E07000152,East Northamptonshire,E07000152,East Northamptonshire,E10000021,Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,TRUE
-E07000153,Kettering,E07000153,Kettering,E10000021,Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,TRUE
-E07000154,Northampton,E07000154,Northampton,E10000021,Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,TRUE
-E07000155,South Northamptonshire,E07000155,South Northamptonshire,E10000021,Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,TRUE
-E07000156,Wellingborough,E07000156,Wellingborough,E10000021,Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,TRUE
+E07000150,Corby,E06000061,North Northamptonshire,E06000061,North Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,FALSE
+E07000151,Daventry,E06000062,West Northamptonshire,E06000062,West Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,FALSE
+E07000152,East Northamptonshire,E06000061,North Northamptonshire,E06000061,North Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,FALSE
+E07000153,Kettering,E06000061,North Northamptonshire,E06000061,North Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,FALSE
+E07000154,Northampton,E06000062,West Northamptonshire,E06000062,West Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,FALSE
+E07000155,South Northamptonshire,E06000062,West Northamptonshire,E06000062,West Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,FALSE
+E07000156,Wellingborough,E06000061,North Northamptonshire,E06000061,North Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,FALSE
 E07000163,Craven,E07000163,Craven,E10000023,North Yorkshire,,,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,TRUE
 E07000164,Hambleton,E07000164,Hambleton,E10000023,North Yorkshire,,,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,TRUE
 E07000165,Harrogate,E07000165,Harrogate,E10000023,North Yorkshire,,,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom,TRUE

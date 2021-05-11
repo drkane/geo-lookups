@@ -56,6 +56,8 @@ E06000057,Northumberland,E47000011,North of Tyne,E12000001,North East,E92000001,
 E06000058,"Bournemouth, Christchurch and Poole",,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E06000059,Dorset,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E06000060,Buckinghamshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000061,North Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000062,West Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E08000001,Bolton,E47000001,Greater Manchester,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E08000002,Bury,E47000001,Greater Manchester,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E08000003,Manchester,E47000001,Greater Manchester,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
@@ -139,7 +141,6 @@ E10000017,Lancashire,,,E12000002,North West,E92000001,England,K04000001,England 
 E10000018,Leicestershire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E10000019,Lincolnshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E10000020,Norfolk,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
-E10000021,Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E10000023,North Yorkshire,,,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E10000024,Nottinghamshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E10000025,Oxfordshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom

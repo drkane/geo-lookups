@@ -16,10 +16,10 @@ Covers England, Northern Ireland, Scotland and Wales.
 
 Fields:
 
-- `LADCD` - Local Authority code
-- `LADNM` - Local Authority name
-- `LAD20CD` - Local Authority (2020) code
-- `LAD20NM` - Local Authority (2020) name
+- `LADCD` - Local Authority code (includes areas that are no longer active)
+- `LADNM` - Local Authority name (includes areas that are no longer active)
+- `LADCD_ACTIVE` - Local Authority code (the most recent code that covers this area)
+- `LADNM_ACTIVE` - Local Authority name (the most recent name that covers this area)
 - `UTLACD` - Upper tier local authority code
 - `UTLANM` - Upper tier local authority name
 - `CAUTHCD` - Combined authority code
@@ -73,8 +73,8 @@ Fields:
 - `MSOA11NM` - Middle Super Output Area name
 - `MSOA11HCLNM` - Middle Super Output Area name from [House of Commons Library](https://visual.parliament.uk/msoanames)
 - `LAD17CD` - Local Authority (2017) code
-- `LAD20CD` - Local Authority (2020) code
-- `LAD20NM` - Local Authority (2020) name
+- `LADCD_ACTIVE` - Local Authority code (the most recent code that covers this area)
+- `LADNM_ACTIVE` - Local Authority name (the most recent name that covers this area)
 - `UTLACD` - Upper tier local authority code
 - `UTLANM` - Upper tier local authority name
 - `CAUTHCD` - Combined authority code
@@ -116,8 +116,8 @@ Fields:
 - `MSOA11NM` - Middle Super Output Area name
 - `MSOA11HCLNM` - Middle Super Output Area name from [House of Commons Library](https://visual.parliament.uk/msoanames)
 - `LAD17CD` - Local Authority (2017) code
-- `LAD20CD` - Local Authority (2020) code
-- `LAD20NM` - Local Authority (2020) name
+- `LADCD_ACTIVE` - Local Authority code (the most recent code that covers this area)
+- `LADNM_ACTIVE` - Local Authority name (the most recent name that covers this area)
 - `UTLACD` - Upper tier local authority code
 - `UTLANM` - Upper tier local authority name
 - `CAUTHCD` - Combined authority code
@@ -159,8 +159,8 @@ Fields:
 - `LADNM` - Local Authority name from source data
 - `SOURCEFILE` - Source year for the ward data
 - `LAD17CD` - Local Authority (2017) code
-- `LAD20CD` - Local Authority (2020) code
-- `LAD20NM` - Local Authority (2020) name
+- `LADCD_ACTIVE` - Local Authority code (the most recent code that covers this area)
+- `LADNM_ACTIVE` - Local Authority name (the most recent name that covers this area)
 - `UTLACD` - Upper tier local authority code
 - `UTLANM` - Upper tier local authority name
 - `CAUTHCD` - Combined authority code
