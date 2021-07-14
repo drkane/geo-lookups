@@ -212,6 +212,63 @@ Fields:
 - `longitude` - Longitude of central point
 - `latitude` - Latitude of central point
 
+## [`cauth_all_codes.csv`](cauth_all_codes.csv)
+
+A record for each Combined Authority.
+
+Covers England
+
+Fields:
+
+- `CAUTHCD` - Combined authority code
+- `CAUTHNM` - Combined authority name
+- `RGNCD` - Region code
+- `RGNNM` - Region name
+- `CTRYCD` - Country code
+- `CTRYNM` - Country name
+- `EWCD` - England and Wales code
+- `EWNM` - England and Wales name
+- `GBCD` - Great Britain code
+- `GBNM` - Great Britain name
+- `UKCD` - United Kingdom code
+- `UKNM` - United Kingdom name
+
+## [`rgn_all_codes.csv`](rgn_all_codes.csv)
+
+A record for each English region.
+
+Covers England
+
+Fields:
+
+- `RGNCD` - Region code
+- `RGNNM` - Region name
+- `CTRYCD` - Country code
+- `CTRYNM` - Country name
+- `EWCD` - England and Wales code
+- `EWNM` - England and Wales name
+- `GBCD` - Great Britain code
+- `GBNM` - Great Britain name
+- `UKCD` - United Kingdom code
+- `UKNM` - United Kingdom name
+
+## [`ctry_all_codes.csv`](ctry_all_codes.csv)
+
+A record for each Country.
+
+Covers England, Northern Ireland, Scotland and Wales.
+
+Fields:
+
+- `CTRYCD` - Country code
+- `CTRYNM` - Country name
+- `EWCD` - England and Wales code
+- `EWNM` - England and Wales name
+- `GBCD` - Great Britain code
+- `GBNM` - Great Britain name
+- `UKCD` - United Kingdom code
+- `UKNM` - United Kingdom name
+
 ## Data sources
 
 Data is sourced from the [ONS Geoportal](http://geoportal.statistics.gov.uk/) and used under the Open Government Licence v3.0. 
