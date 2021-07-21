@@ -397,6 +397,19 @@ Areas (MSOAs) for that area.
 - York (E06000014): [lsoa](../boundaries/lsoa/E06000014.geojson) | [msoa](../boundaries/msoa/E06000014.geojson) | [ward](../boundaries/ward/E06000014.geojson)
 
 
+## Region
+
+- East Midlands (E12000004): [lsoa](../boundaries/lsoa/E12000004.geojson) | [msoa](../boundaries/msoa/E12000004.geojson) | [ward](../boundaries/ward/E12000004.geojson)
+- East of England (E12000006): [lsoa](../boundaries/lsoa/E12000006.geojson) | [msoa](../boundaries/msoa/E12000006.geojson) | [ward](../boundaries/ward/E12000006.geojson)
+- London (E12000007): [lsoa](../boundaries/lsoa/E12000007.geojson) | [msoa](../boundaries/msoa/E12000007.geojson) | [ward](../boundaries/ward/E12000007.geojson)
+- North East (E12000001): [lsoa](../boundaries/lsoa/E12000001.geojson) | [msoa](../boundaries/msoa/E12000001.geojson) | [ward](../boundaries/ward/E12000001.geojson)
+- North West (E12000002): [lsoa](../boundaries/lsoa/E12000002.geojson) | [msoa](../boundaries/msoa/E12000002.geojson) | [ward](../boundaries/ward/E12000002.geojson)
+- South East (E12000008): [lsoa](../boundaries/lsoa/E12000008.geojson) | [msoa](../boundaries/msoa/E12000008.geojson) | [ward](../boundaries/ward/E12000008.geojson)
+- South West (E12000009): [lsoa](../boundaries/lsoa/E12000009.geojson) | [msoa](../boundaries/msoa/E12000009.geojson) | [ward](../boundaries/ward/E12000009.geojson)
+- West Midlands (E12000005): [lsoa](../boundaries/lsoa/E12000005.geojson) | [msoa](../boundaries/msoa/E12000005.geojson) | [ward](../boundaries/ward/E12000005.geojson)
+- Yorkshire and The Humber (E12000003): [lsoa](../boundaries/lsoa/E12000003.geojson) | [msoa](../boundaries/msoa/E12000003.geojson) | [ward](../boundaries/ward/E12000003.geojson)
+
+
 ## Upper Tier Local Authority
 
 - Cambridgeshire (E10000003): [lsoa](../boundaries/lsoa/E10000003.geojson) | [msoa](../boundaries/msoa/E10000003.geojson) | [ward](../boundaries/ward/E10000003.geojson)
