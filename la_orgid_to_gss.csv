@@ -1,0 +1,460 @@
+﻿org_id,name,normalised_name,gss_code,area_name,area_type,active
+GB-LAE-ADU,Adur District Council,Adur,E07000223,Adur,E07,TRUE
+GB-LAE-ALL,Allerdale Borough Council,Allerdale,E07000026,Allerdale,E07,TRUE
+GB-LAE-AMB,Amber Valley Borough Council,Amber Valley,E07000032,Amber Valley,E07,TRUE
+GB-LAE-ARU,Arun District Council,Arun,E07000224,Arun,E07,TRUE
+GB-LAE-ASF,Ashford Borough Council,Ashford,E07000105,Ashford,E07,TRUE
+GB-LAE-ASH,Ashfield District Council,Ashfield,E07000170,Ashfield,E07,TRUE
+GB-LAE-AYL,Aylesbury Vale District Council,Aylesbury Vale,E07000004,Aylesbury Vale,E07,FALSE
+GB-LAE-BAB,Babergh District Council,Babergh,E07000200,Babergh,E07,TRUE
+GB-LAE-BAE,Bassetlaw District Council,Bassetlaw,E07000171,Bassetlaw,E07,TRUE
+GB-LAE-BAI,Basildon Borough Council,Basildon,E07000066,Basildon,E07,TRUE
+GB-LAE-BAN,Basingstoke and Deane Borough Council,Basingstoke and Deane,E07000084,Basingstoke and Deane,E07,TRUE
+GB-LAE-BAR,Barrow-in-Furness Borough Council,Barrow-in-Furness,E07000027,Barrow-in-Furness,E07,TRUE
+GB-LAE-BAS,Bath and North East Somerset Council,Bath and North East Somerset,E06000022,Bath and North East Somerset,E06,TRUE
+GB-LAE-BBD,Blackburn with Darwen Borough Council,Blackburn with Darwen,E06000008,Blackburn with Darwen,E06,TRUE
+GB-LAE-BDF,Bedford Borough Council,Bedford,E06000055,Bedford,E06,TRUE
+GB-LAE-BDG,London Borough of Barking and Dagenham,Barking and Dagenham,E09000002,Barking and Dagenham,E09,TRUE
+GB-LAE-BEN,London Borough of Brent,Brent,E09000005,Brent,E09,TRUE
+GB-LAE-BEX,London Borough of Bexley,Bexley,E09000004,Bexley,E09,TRUE
+GB-LAE-BIR,Birmingham City Council,Birmingham,E08000025,Birmingham,E08,TRUE
+GB-LAE-BKM,Buckinghamshire County Council,Buckinghamshire,E06000060,Buckinghamshire,E06,FALSE
+GB-LAE-BLA,Blaby District Council,Blaby,E07000129,Blaby,E07,TRUE
+GB-LAE-BMH,Bournemouth Borough Council,Bournemouth,E06000028,Bournemouth,E06,FALSE
+GB-LAE-BNE,London Borough of Barnet,Barnet,E09000003,Barnet,E09,TRUE
+GB-LAE-BNH,Brighton and Hove City Council,Brighton and Hove,E06000043,Brighton and Hove,E06,TRUE
+GB-LAE-BNS,Barnsley Metropolitan Borough Council,Barnsley,E08000016,Barnsley,E08,TRUE
+GB-LAE-BOL,Bolton Metropolitan Borough Council,Bolton,E08000001,Bolton,E08,TRUE
+GB-LAE-BOS,Bolsover District Council,Bolsover,E07000033,Bolsover,E07,TRUE
+GB-LAE-BOT,Boston Borough Council,Boston,E07000136,Boston,E07,TRUE
+GB-LAE-BPC,"Bournemouth, Christchurch and Poole Council","Bournemouth, Christchurch and Poole",E06000058,"Bournemouth, Christchurch and Poole",E06,TRUE
+GB-LAE-BPL,Blackpool Borough Council,Blackpool,E06000009,Blackpool,E06,TRUE
+GB-LAE-BRA,Braintree District Council,Braintree,E07000067,Braintree,E07,TRUE
+GB-LAE-BRC,Bracknell Forest Council,Bracknell Forest,E06000036,Bracknell Forest,E06,TRUE
+GB-LAE-BRD,City of Bradford Metropolitan District Council,Bradford,E08000032,Bradford,E08,TRUE
+GB-LAE-BRE,Breckland District Council,Breckland,E07000143,Breckland,E07,TRUE
+GB-LAE-BRM,Bromsgrove District Council,Bromsgrove,E07000234,Bromsgrove,E07,TRUE
+GB-LAE-BRO,Broadland District Council,Broadland,E07000144,Broadland,E07,TRUE
+GB-LAE-BRT,Broxtowe Borough Council,Broxtowe,E07000172,Broxtowe,E07,TRUE
+GB-LAE-BRW,Brentwood Borough Council,Brentwood,E07000068,Brentwood,E07,TRUE
+GB-LAE-BRX,Broxbourne Borough Council,Broxbourne,E07000095,Broxbourne,E07,TRUE
+GB-LAE-BRY,London Borough of Bromley,Bromley,E09000006,Bromley,E09,TRUE
+GB-LAE-BST,Bristol City Council,Bristol,E06000023,"Bristol, City of",E06,TRUE
+GB-LAE-BUC,Buckinghamshire Council,Buckinghamshire,E06000060,Buckinghamshire,E06,TRUE
+GB-LAE-BUN,Burnley Borough Council,Burnley,E07000117,Burnley,E07,TRUE
+GB-LAE-BUR,Bury Metropolitan Borough Council,Bury,E08000002,Bury,E08,TRUE
+GB-LAE-CAB,Cambridge City Council,Cambridge,E07000008,Cambridge,E07,TRUE
+GB-LAE-CAM,Cambridgeshire County Council,Cambridgeshire,E10000003,Cambridgeshire,E10,TRUE
+GB-LAE-CAN,Cannock Chase District Council,Cannock Chase,E07000192,Cannock Chase,E07,TRUE
+GB-LAE-CAR,Carlisle City Council,Carlisle,E07000028,Carlisle,E07,TRUE
+GB-LAE-CAS,Castle Point Borough Council,Castle Point,E07000069,Castle Point,E07,TRUE
+GB-LAE-CAT,Canterbury City Council,Canterbury,E07000106,Canterbury,E07,TRUE
+GB-LAE-CBF,Central Bedfordshire Council,Central Bedfordshire,E06000056,Central Bedfordshire,E06,TRUE
+GB-LAE-CHA,Charnwood Borough Council,Charnwood,E07000130,Charnwood,E07,TRUE
+GB-LAE-CHC,Christchurch Borough Council,Christchurch,E07000048,Christchurch,E07,FALSE
+GB-LAE-CHE,Cheshire East Council,Cheshire East,E06000049,Cheshire East,E06,TRUE
+GB-LAE-CHI,Chichester District Council,Chichester,E07000225,Chichester,E07,TRUE
+GB-LAE-CHL,Chelmsford City Council,Chelmsford,E07000070,Chelmsford,E07,TRUE
+GB-LAE-CHN,Chiltern District Council,Chiltern,E07000005,Chiltern,E07,FALSE
+GB-LAE-CHO,Chorley Borough Council,Chorley,E07000118,Chorley,E07,TRUE
+GB-LAE-CHR,Cherwell District Council,Cherwell,E07000177,Cherwell,E07,TRUE
+GB-LAE-CHS,Chesterfield Borough Council,Chesterfield,E07000034,Chesterfield,E07,TRUE
+GB-LAE-CHT,Cheltenham Borough Council,Cheltenham,E07000078,Cheltenham,E07,TRUE
+GB-LAE-CHW,Cheshire West and Chester Council,Cheshire West and Chester,E06000050,Cheshire West and Chester,E06,TRUE
+GB-LAE-CLD,Calderdale Metropolitan Borough Council,Calderdale,E08000033,Calderdale,E08,TRUE
+GB-LAE-CMA,Cumbria County Council,Cumbria,E10000006,Cumbria,E10,TRUE
+GB-LAE-CMD,London Borough of Camden,Camden,E09000007,Camden,E09,TRUE
+GB-LAE-COL,Colchester Borough Council,Colchester,E07000071,Colchester,E07,TRUE
+GB-LAE-CON,Cornwall Council,Cornwall,E06000052,Cornwall,E06,TRUE
+GB-LAE-COP,Copeland Borough Council,Copeland,E07000029,Copeland,E07,TRUE
+GB-LAE-COR,Corby Borough Council,Corby,E07000150,Corby,E07,FALSE
+GB-LAE-COT,Cotswold District Council,Cotswold,E07000079,Cotswold,E07,TRUE
+GB-LAE-COV,Coventry City Council,Coventry,E08000026,Coventry,E08,TRUE
+GB-LAE-CPCA,Cambridgeshire and Peterborough Combined Authority,Cambridgeshire and Peterborough,E47000008,Cambridgeshire and Peterborough,E47,TRUE
+GB-LAE-CRA,Craven District Council,Craven,E07000163,Craven,E07,TRUE
+GB-LAE-CRW,Crawley Borough Council,Crawley,E07000226,Crawley,E07,TRUE
+GB-LAE-CRY,London Borough of Croydon,Croydon,E09000008,Croydon,E09,TRUE
+GB-LAE-DAC,Dacorum Borough Council,Dacorum,E07000096,Dacorum,E07,TRUE
+GB-LAE-DAL,Darlington Borough Council,Darlington,E06000005,Darlington,E06,TRUE
+GB-LAE-DAR,Dartford Borough Council,Dartford,E07000107,Dartford,E07,TRUE
+GB-LAE-DAV,Daventry District Council,Daventry,E07000151,Daventry,E07,FALSE
+GB-LAE-DBY,Derbyshire County Council,Derbyshire,E10000007,Derbyshire,E10,TRUE
+GB-LAE-DEB,Derbyshire Dales District Council,Derbyshire Dales,E07000035,Derbyshire Dales,E07,TRUE
+GB-LAE-DER,Derby City Council,Derby,E06000015,Derby,E06,TRUE
+GB-LAE-DEV,Devon County Council,Devon,E10000008,Devon,E10,TRUE
+GB-LAE-DNC,Doncaster Metropolitan Borough Council,Doncaster,E08000017,Doncaster,E08,TRUE
+GB-LAE-DOR,Dorset County Council,Dorset,E06000059,Dorset,E06,FALSE
+GB-LAE-DOV,Dover District Council,Dover,E07000108,Dover,E07,TRUE
+GB-LAE-DST,Dorset Council,Dorset,E06000059,Dorset,E06,TRUE
+GB-LAE-DUD,Dudley Metropolitan Borough Council,Dudley,E08000027,Dudley,E08,TRUE
+GB-LAE-DUR,Durham County Council,Durham,E06000047,County Durham,E06,TRUE
+GB-LAE-EAL,London Borough of Ealing,Ealing,E09000009,Ealing,E09,TRUE
+GB-LAE-EAS,Eastbourne Borough Council,Eastbourne,E07000061,Eastbourne,E07,TRUE
+GB-LAE-EAT,Eastleigh Borough Council,Eastleigh,E07000086,Eastleigh,E07,TRUE
+GB-LAE-ECA,East Cambridgeshire District Council,East Cambridgeshire,E07000009,East Cambridgeshire,E07,TRUE
+GB-LAE-EDE,East Devon District Council,East Devon,E07000040,East Devon,E07,TRUE
+GB-LAE-EDN,Eden District Council,Eden,E07000030,Eden,E07,TRUE
+GB-LAE-EDO,East Dorset District Council,East Dorset,E07000049,East Dorset,E07,FALSE
+GB-LAE-EHA,East Hampshire District Council,East Hampshire,E07000085,East Hampshire,E07,TRUE
+GB-LAE-EHE,East Hertfordshire District Council,East Hertfordshire,E07000097,East Hertfordshire,E07,TRUE
+GB-LAE-ELI,East Lindsey District Council,East Lindsey,E07000137,East Lindsey,E07,TRUE
+GB-LAE-ELM,Elmbridge Borough Council,Elmbridge,E07000207,Elmbridge,E07,TRUE
+GB-LAE-ENF,London Borough of Enfield,Enfield,E09000010,Enfield,E09,TRUE
+GB-LAE-ENO,East Northamptonshire Council,East Northamptonshire,E07000152,East Northamptonshire,E07,FALSE
+GB-LAE-EPP,Epping Forest District Council,Epping Forest,E07000072,Epping Forest,E07,TRUE
+GB-LAE-EPS,Epsom and Ewell Borough Council,Epsom and Ewell,E07000208,Epsom and Ewell,E07,TRUE
+GB-LAE-ERE,Erewash Borough Council,Erewash,E07000036,Erewash,E07,TRUE
+GB-LAE-ERY,East Riding of Yorkshire Council,East Riding of Yorkshire,E06000011,East Riding of Yorkshire,E06,TRUE
+GB-LAE-ESK,East Suffolk Council,East Suffolk,E07000244,East Suffolk,E07,TRUE
+GB-LAE-ESS,Essex County Council,Essex,E10000012,Essex,E10,TRUE
+GB-LAE-EST,East Staffordshire Borough Council,East Staffordshire,E07000193,East Staffordshire,E07,TRUE
+GB-LAE-ESX,East Sussex County Council,East Sussex,E10000011,East Sussex,E10,TRUE
+GB-LAE-EXE,Exeter City Council,Exeter,E07000041,Exeter,E07,TRUE
+GB-LAE-FAR,Fareham Borough Council,Fareham,E07000087,Fareham,E07,TRUE
+GB-LAE-FEN,Fenland District Council,Fenland,E07000010,Fenland,E07,TRUE
+GB-LAE-FOE,Forest of Dean District Council,Forest of Dean,E07000080,Forest of Dean,E07,TRUE
+GB-LAE-FOR,Forest Heath District Council,Forest Heath,E07000201,Forest Heath,E07,FALSE
+GB-LAE-FYL,Fylde Borough Council,Fylde,E07000119,Fylde,E07,TRUE
+GB-LAE-GAT,Gateshead Metropolitan Borough Council,Gateshead,E08000020,Gateshead,E08,TRUE
+GB-LAE-GED,Gedling Borough Council,Gedling,E07000173,Gedling,E07,TRUE
+GB-LAE-GLA,Greater London Authority,London,E12000007,London,E12,TRUE
+GB-LAE-GLO,Gloucester City Council,Gloucester,E07000081,Gloucester,E07,TRUE
+GB-LAE-GLS,Gloucestershire County Council,Gloucestershire,E10000013,Gloucestershire,E10,TRUE
+GB-LAE-GMCA,Greater Manchester Combined Authority,Greater Manchester,E47000001,Greater Manchester,E47,TRUE
+GB-LAE-GOS,Gosport Borough Council,Gosport,E07000088,Gosport,E07,TRUE
+GB-LAE-GRA,Gravesham Borough Council,Gravesham,E07000109,Gravesham,E07,TRUE
+GB-LAE-GRE,Royal Borough of Greenwich,Greenwich,E09000011,Greenwich,E09,TRUE
+GB-LAE-GRT,Guildford Borough Council,Guildford,E07000209,Guildford,E07,TRUE
+GB-LAE-GRY,Great Yarmouth Borough Council,Great Yarmouth,E07000145,Great Yarmouth,E07,TRUE
+GB-LAE-HAA,Havant Borough Council,Havant,E07000090,Havant,E07,TRUE
+GB-LAE-HAE,Hambleton District Council,Hambleton,E07000164,Hambleton,E07,TRUE
+GB-LAE-HAG,Harrogate Borough Council,Harrogate,E07000165,Harrogate,E07,TRUE
+GB-LAE-HAL,Halton Borough Council,Halton,E06000006,Halton,E06,TRUE
+GB-LAE-HAM,Hampshire County Council,Hampshire,E10000014,Hampshire,E10,TRUE
+GB-LAE-HAO,Harborough District Council,Harborough,E07000131,Harborough,E07,TRUE
+GB-LAE-HAR,Harlow District Council,Harlow,E07000073,Harlow,E07,TRUE
+GB-LAE-HAS,Hastings Borough Council,Hastings,E07000062,Hastings,E07,TRUE
+GB-LAE-HAT,Hart District Council,Hart,E07000089,Hart,E07,TRUE
+GB-LAE-HAV,London Borough of Havering,Havering,E09000016,Havering,E09,TRUE
+GB-LAE-HCK,London Borough of Hackney,Hackney,E09000012,Hackney,E09,TRUE
+GB-LAE-HEF,Herefordshire Council,Herefordshire,E06000019,"Herefordshire, County of",E06,TRUE
+GB-LAE-HER,Hertsmere Borough Council,Hertsmere,E07000098,Hertsmere,E07,TRUE
+GB-LAE-HIG,High Peak Borough Council,High Peak,E07000037,High Peak,E07,TRUE
+GB-LAE-HIL,London Borough of Hillingdon,Hillingdon,E09000017,Hillingdon,E09,TRUE
+GB-LAE-HIN,Hinckley and Bosworth Borough Council,Hinckley and Bosworth,E07000132,Hinckley and Bosworth,E07,TRUE
+GB-LAE-HMF,London Borough of Hammersmith & Fulham,Hammersmith and Fulham,E09000013,Hammersmith and Fulham,E09,TRUE
+GB-LAE-HNS,London Borough of Hounslow,Hounslow,E09000018,Hounslow,E09,TRUE
+GB-LAE-HOR,Horsham District Council,Horsham,E07000227,Horsham,E07,TRUE
+GB-LAE-HPL,Hartlepool Borough Council,Hartlepool,E06000001,Hartlepool,E06,TRUE
+GB-LAE-HRT,Hertfordshire County Council,Hertfordshire,E10000015,Hertfordshire,E10,TRUE
+GB-LAE-HRW,London Borough of Harrow,Harrow,E09000015,Harrow,E09,TRUE
+GB-LAE-HRY,London Borough of Haringey,Haringey,E09000014,Haringey,E09,TRUE
+GB-LAE-HUN,Huntingdonshire District Council,Huntingdonshire,E07000011,Huntingdonshire,E07,TRUE
+GB-LAE-HYN,Hyndburn Borough Council,Hyndburn,E07000120,Hyndburn,E07,TRUE
+GB-LAE-IOS,Council of the Isles of Scilly,Isles of Scilly,E06000053,Isles of Scilly,E06,TRUE
+GB-LAE-IOW,Isle of Wight Council,Isle of Wight,E06000046,Isle of Wight,E06,TRUE
+GB-LAE-IPS,Ipswich Borough Council,Ipswich,E07000202,Ipswich,E07,TRUE
+GB-LAE-ISL,London Borough of Islington,Islington,E09000019,Islington,E09,TRUE
+GB-LAE-KEC,Royal Borough of Kensington and Chelsea,Kensington and Chelsea,E09000020,Kensington and Chelsea,E09,TRUE
+GB-LAE-KEN,Kent County Council,Kent,E10000016,Kent,E10,TRUE
+GB-LAE-KET,Kettering Borough Council,Kettering,E07000153,Kettering,E07,FALSE
+GB-LAE-KHL,Hull City Council,Hull,E06000010,"Kingston upon Hull, City of",E06,TRUE
+GB-LAE-KIN,Borough Council of King's Lynn and West Norfolk,King's Lynn and West Norfolk,E07000146,King's Lynn and West Norfolk,E07,TRUE
+GB-LAE-KIR,Kirklees Council,Kirklees,E08000034,Kirklees,E08,TRUE
+GB-LAE-KTT,Royal Borough of Kingston upon Thames,Kingston upon Thames,E09000021,Kingston upon Thames,E09,TRUE
+GB-LAE-KWL,Knowsley Metropolitan Borough Council,Knowsley,E08000011,Knowsley,E08,TRUE
+GB-LAE-LAC,Lancaster City Council,Lancaster,E07000121,Lancaster,E07,TRUE
+GB-LAE-LAN,Lancashire County Council,Lancashire,E10000017,Lancashire,E10,TRUE
+GB-LAE-LBH,London Borough of Lambeth,Lambeth,E09000022,Lambeth,E09,TRUE
+GB-LAE-LCE,Leicester City Council,Leicester,E06000016,Leicester,E06,TRUE
+GB-LAE-LCR,Liverpool City Region,Liverpool City Region,E47000004,Liverpool City Region,E47,TRUE
+GB-LAE-LDS,Leeds City Council,Leeds,E08000035,Leeds,E08,TRUE
+GB-LAE-LEC,Leicestershire County Council,Leicestershire,E10000018,Leicestershire,E10,TRUE
+GB-LAE-LEE,Lewes District Council,Lewes,E07000063,Lewes,E07,TRUE
+GB-LAE-LEW,London Borough of Lewisham,Lewisham,E09000023,Lewisham,E09,TRUE
+GB-LAE-LIC,City of Lincoln Council,Lincoln,E07000138,Lincoln,E07,TRUE
+GB-LAE-LIF,Lichfield District Council,Lichfield,E07000194,Lichfield,E07,TRUE
+GB-LAE-LIN,Lincolnshire County Council,Lincolnshire,E10000019,Lincolnshire,E10,TRUE
+GB-LAE-LIV,Liverpool City Council,Liverpool,E08000012,Liverpool,E08,TRUE
+GB-LAE-LND,City of London Corporation,City of London,E09000001,City of London,E09,TRUE
+GB-LAE-LUT,Luton Borough Council,Luton,E06000032,Luton,E06,TRUE
+GB-LAE-MAI,Maidstone Borough Council,Maidstone,E07000110,Maidstone,E07,TRUE
+GB-LAE-MAL,Maldon District Council,Maldon,E07000074,Maldon,E07,TRUE
+GB-LAE-MAN,Manchester City Council,Manchester,E08000003,Manchester,E08,TRUE
+GB-LAE-MAS,Mansfield District Council,Mansfield,E07000174,Mansfield,E07,TRUE
+GB-LAE-MAV,Malvern Hills District Council,Malvern Hills,E07000235,Malvern Hills,E07,TRUE
+GB-LAE-MDB,Middlesbrough Borough Council,Middlesbrough,E06000002,Middlesbrough,E06,TRUE
+GB-LAE-MDE,Mid Devon District Council,Mid Devon,E07000042,Mid Devon,E07,TRUE
+GB-LAE-MDW,Medway Council,Medway,E06000035,Medway,E06,TRUE
+GB-LAE-MEL,Melton Borough Council,Melton,E07000133,Melton,E07,TRUE
+GB-LAE-MEN,Mendip District Council,Mendip,E07000187,Mendip,E07,TRUE
+GB-LAE-MIK,Milton Keynes Council,Milton Keynes,E06000042,Milton Keynes,E06,TRUE
+GB-LAE-MOL,Mole Valley District Council,Mole Valley,E07000210,Mole Valley,E07,TRUE
+GB-LAE-MRT,London Borough of Merton,Merton,E09000024,Merton,E09,TRUE
+GB-LAE-MSS,Mid Sussex District Council,Mid Sussex,E07000228,Mid Sussex,E07,TRUE
+GB-LAE-MSU,Mid Suffolk District Council,Mid Suffolk,E07000203,Mid Suffolk,E07,TRUE
+GB-LAE-NBL,Northumberland County Council,Northumberland,E06000048,Northumberland,E06,TRUE
+GB-LAE-NDE,North Devon District Council,North Devon,E07000043,North Devon,E07,TRUE
+GB-LAE-NDO,North Dorset District Council,North Dorset,E07000050,North Dorset,E07,FALSE
+GB-LAE-NEA,Newark and Sherwood District Council,Newark and Sherwood,E07000175,Newark and Sherwood,E07,TRUE
+GB-LAE-NEC,Newcastle-under-Lyme Borough Council,Newcastle-under-Lyme,E07000195,Newcastle-under-Lyme,E07,TRUE
+GB-LAE-NED,North East Derbyshire District Council,North East Derbyshire,E07000038,North East Derbyshire,E07,TRUE
+GB-LAE-NEL,North East Lincolnshire Council,North East Lincolnshire,E06000012,North East Lincolnshire,E06,TRUE
+GB-LAE-NET,Newcastle City Council,Newcastle,E08000021,Newcastle upon Tyne,E08,TRUE
+GB-LAE-NEW,New Forest District Council,New Forest,E07000091,New Forest,E07,TRUE
+GB-LAE-NFK,Norfolk County Council,Norfolk,E10000020,Norfolk,E10,TRUE
+GB-LAE-NGM,Nottingham City Council,Nottingham,E06000018,Nottingham,E06,TRUE
+GB-LAE-NHE,North Hertfordshire District Council,North Hertfordshire,E07000099,North Hertfordshire,E07,TRUE
+GB-LAE-NKE,North Kesteven District Council,North Kesteven,E07000139,North Kesteven,E07,TRUE
+GB-LAE-NLN,North Lincolnshire Council,North Lincolnshire,E06000013,North Lincolnshire,E06,TRUE
+GB-LAE-NNO,North Norfolk District Council,North Norfolk,E07000147,North Norfolk,E07,TRUE
+GB-LAE-NOR,Northampton Borough Council,Northampton,E07000154,Northampton,E07,FALSE
+GB-LAE-NOW,Norwich City Council,Norwich,E07000148,Norwich,E07,TRUE
+GB-LAE-NSM,North Somerset  Council,North Somerset ,E06000024,North Somerset,E06,TRUE
+GB-LAE-NTH,Northamptonshire County Council,Northamptonshire,E10000021,Northamptonshire,E10,FALSE
+GB-LAE-NTT,Nottinghamshire County Council,Nottinghamshire,E10000024,Nottinghamshire,E10,TRUE
+GB-LAE-NTY,North Tyneside Council,North Tyneside,E08000022,North Tyneside,E08,TRUE
+GB-LAE-NUN,Nuneaton and Bedworth Borough Council,Nuneaton and Bedworth,E07000219,Nuneaton and Bedworth,E07,TRUE
+GB-LAE-NWA,North Warwickshire Borough Council,North Warwickshire,E07000218,North Warwickshire,E07,TRUE
+GB-LAE-NWL,North West Leicestershire District Council,North West Leicestershire,E07000134,North West Leicestershire,E07,TRUE
+GB-LAE-NWM,London Borough of Newham,Newham,E09000025,Newham,E09,TRUE
+GB-LAE-NYK,North Yorkshire County Council,North Yorkshire,E10000023,North Yorkshire,E10,TRUE
+GB-LAE-OAD,Oadby and Wigston Borough Council,Oadby and Wigston,E07000135,Oadby and Wigston,E07,TRUE
+GB-LAE-OLD,Oldham Metropolitan Borough Council,Oldham,E08000004,Oldham,E08,TRUE
+GB-LAE-OXF,Oxfordshire County Council,Oxfordshire,E10000025,Oxfordshire,E10,TRUE
+GB-LAE-OXO,Oxford City Council,Oxford,E07000178,Oxford,E07,TRUE
+GB-LAE-PEN,Pendle Borough Council,Pendle,E07000122,Pendle,E07,TRUE
+GB-LAE-PLY,Plymouth City Council,Plymouth,E06000026,Plymouth,E06,TRUE
+GB-LAE-POL,Borough of Poole,Poole,E06000029,Poole,E06,FALSE
+GB-LAE-POR,Portsmouth City Council,Portsmouth,E06000044,Portsmouth,E06,TRUE
+GB-LAE-PRE,Preston City Council,Preston,E07000123,Preston,E07,TRUE
+GB-LAE-PTE,Peterborough City Council,Peterborough,E06000031,Peterborough,E06,TRUE
+GB-LAE-PUR,Purbeck District Council,Purbeck,E07000051,Purbeck,E07,FALSE
+GB-LAE-RCC,Redcar and Cleveland Borough Council,Redcar and Cleveland,E06000003,Redcar and Cleveland,E06,TRUE
+GB-LAE-RCH,Rochdale Metropolitan Borough Council,Rochdale,E08000005,Rochdale,E08,TRUE
+GB-LAE-RDB,London Borough of Redbridge,Redbridge,E09000026,Redbridge,E09,TRUE
+GB-LAE-RDG,Reading Borough Council,Reading,E06000038,Reading,E06,TRUE
+GB-LAE-RED,Redditch Borough Council,Redditch,E07000236,Redditch,E07,TRUE
+GB-LAE-REI,Reigate and Banstead Borough Council,Reigate and Banstead,E07000211,Reigate and Banstead,E07,TRUE
+GB-LAE-RIB,Ribble Valley Borough Council,Ribble Valley,E07000124,Ribble Valley,E07,TRUE
+GB-LAE-RIC,London Borough of Richmond upon Thames,Richmond upon Thames,E09000027,Richmond upon Thames,E09,TRUE
+GB-LAE-RIH,Richmondshire District Council,Richmondshire,E07000166,Richmondshire,E07,TRUE
+GB-LAE-ROC,Rochford District Council,Rochford,E07000075,Rochford,E07,TRUE
+GB-LAE-ROH,Rother District Council,Rother,E07000064,Rother,E07,TRUE
+GB-LAE-ROS,Rossendale Borough Council,Rossendale,E07000125,Rossendale,E07,TRUE
+GB-LAE-ROT,Rotherham Metropolitan Borough Council,Rotherham,E08000018,Rotherham,E08,TRUE
+GB-LAE-RUG,Rugby Borough Council,Rugby,E07000220,Rugby,E07,TRUE
+GB-LAE-RUH,Rushmoor Borough Council,Rushmoor,E07000092,Rushmoor,E07,TRUE
+GB-LAE-RUN,Runnymede Borough Council,Runnymede,E07000212,Runnymede,E07,TRUE
+GB-LAE-RUS,Rushcliffe Borough Council,Rushcliffe,E07000176,Rushcliffe,E07,TRUE
+GB-LAE-RUT,Rutland County Council,Rutland,E06000017,Rutland,E06,TRUE
+GB-LAE-RYE,Ryedale District Council,Ryedale,E07000167,Ryedale,E07,TRUE
+GB-LAE-SAL,St Albans City and District Council,St Albans,E07000240,St Albans,E07,TRUE
+GB-LAE-SAW,Sandwell Metropolitan Borough Council,Sandwell,E08000028,Sandwell,E08,TRUE
+GB-LAE-SBU,South Bucks District Council,South Bucks,E07000006,South Bucks,E07,FALSE
+GB-LAE-SCA,South Cambridgeshire District Council,South Cambridgeshire,E07000012,South Cambridgeshire,E07,TRUE
+GB-LAE-SCE,Scarborough Borough Council,Scarborough,E07000168,Scarborough,E07,TRUE
+GB-LAE-SCR,Sheffield City Region,Sheffield City Region,E47000002,Sheffield City Region,E47,TRUE
+GB-LAE-SDE,South Derbyshire District Council,South Derbyshire,E07000039,South Derbyshire,E07,TRUE
+GB-LAE-SED,St Edmundsbury Borough Council,St Edmundsbury,E07000204,St Edmundsbury,E07,FALSE
+GB-LAE-SEG,Sedgemoor District Council,Sedgemoor,E07000188,Sedgemoor,E07,TRUE
+GB-LAE-SEL,Selby District Council,Selby,E07000169,Selby,E07,TRUE
+GB-LAE-SEV,Sevenoaks District Council,Sevenoaks,E07000111,Sevenoaks,E07,TRUE
+GB-LAE-SFK,Suffolk County Council,Suffolk,E10000029,Suffolk,E10,TRUE
+GB-LAE-SFT,Sefton Metropolitan Borough Council,Sefton,E08000014,Sefton,E08,TRUE
+GB-LAE-SGC,South Gloucestershire Council,South Gloucestershire,E06000025,South Gloucestershire,E06,TRUE
+GB-LAE-SHA,South Hams District Council,South Hams,E07000044,South Hams,E07,TRUE
+GB-LAE-SHE,Folkestone and Hythe Council,Folkestone and Hythe,E07000112,Folkestone and Hythe,E07,TRUE
+GB-LAE-SHF,Sheffield City Council,Sheffield,E08000019,Sheffield,E08,TRUE
+GB-LAE-SHN,St Helens Council,St Helens,E08000013,St. Helens,E08,TRUE
+GB-LAE-SHO,South Holland District Council,South Holland,E07000140,South Holland,E07,TRUE
+GB-LAE-SHR,Shropshire Council,Shropshire,E06000051,Shropshire,E06,TRUE
+GB-LAE-SKE,South Kesteven District Council,South Kesteven,E07000141,South Kesteven,E07,TRUE
+GB-LAE-SKP,Stockport Metropolitan Borough Council,Stockport,E08000007,Stockport,E08,TRUE
+GB-LAE-SLA,South Lakeland District Council,South Lakeland,E07000031,South Lakeland,E07,TRUE
+GB-LAE-SLF,Salford City Council,Salford,E08000006,Salford,E08,TRUE
+GB-LAE-SLG,Slough Borough Council,Slough,E06000039,Slough,E06,TRUE
+GB-LAE-SND,Sunderland City Council,Sunderland,E08000024,Sunderland,E08,TRUE
+GB-LAE-SNO,South Norfolk District Council,South Norfolk,E07000149,South Norfolk,E07,TRUE
+GB-LAE-SNR,South Northamptonshire Council,South Northamptonshire,E07000155,South Northamptonshire,E07,FALSE
+GB-LAE-SOL,Solihull Metropolitan Borough Council,Solihull,E08000029,Solihull,E08,TRUE
+GB-LAE-SOM,Somerset County Council,Somerset,E10000027,Somerset,E10,TRUE
+GB-LAE-SOS,Southend-on-Sea Borough Council,Southend-on-Sea,E06000033,Southend-on-Sea,E06,TRUE
+GB-LAE-SOX,South Oxfordshire District Council,South Oxfordshire,E07000179,South Oxfordshire,E07,TRUE
+GB-LAE-SPE,Spelthorne Borough Council,Spelthorne,E07000213,Spelthorne,E07,TRUE
+GB-LAE-SRI,South Ribble Borough Council,South Ribble,E07000126,South Ribble,E07,TRUE
+GB-LAE-SRY,Surrey County Council,Surrey,E10000030,Surrey,E10,TRUE
+GB-LAE-SSO,South Somerset District Council,South Somerset,E07000189,South Somerset,E07,TRUE
+GB-LAE-SST,South Staffordshire Council,South Staffordshire,E07000196,South Staffordshire,E07,TRUE
+GB-LAE-STA,Stafford Borough Council,Stafford,E07000197,Stafford,E07,TRUE
+GB-LAE-STE,Stoke-on-Trent City Council,Stoke-on-Trent,E06000021,Stoke-on-Trent,E06,TRUE
+GB-LAE-STF,Staffordshire Moorlands District Council,Staffordshire Moorlands,E07000198,Staffordshire Moorlands,E07,TRUE
+GB-LAE-STH,Southampton City Council,Southampton,E06000045,Southampton,E06,TRUE
+GB-LAE-STN,London Borough of Sutton,Sutton,E09000029,Sutton,E09,TRUE
+GB-LAE-STO,Stroud District Council,Stroud,E07000082,Stroud,E07,TRUE
+GB-LAE-STR,Stratford-on-Avon District Council,Stratford-on-Avon,E07000221,Stratford-on-Avon,E07,TRUE
+GB-LAE-STS,Staffordshire County Council,Staffordshire,E10000028,Staffordshire,E10,TRUE
+GB-LAE-STT,Stockton-on-Tees Borough Council,Stockton-on-Tees,E06000004,Stockton-on-Tees,E06,TRUE
+GB-LAE-STV,Stevenage Borough Council,Stevenage,E07000101,Stevenage,E07,TRUE
+GB-LAE-STY,South Tyneside Council,South Tyneside,E08000023,South Tyneside,E08,TRUE
+GB-LAE-SUF,Suffolk Coastal District Council,Suffolk Coastal,E07000205,Suffolk Coastal,E07,FALSE
+GB-LAE-SUR,Surrey Heath Borough Council,Surrey Heath,E07000214,Surrey Heath,E07,TRUE
+GB-LAE-SWD,Swindon Borough Council,Swindon,E06000030,Swindon,E06,TRUE
+GB-LAE-SWK,London Borough of Southwark,Southwark,E09000028,Southwark,E09,TRUE
+GB-LAE-SWL,Swale Borough Council,Swale,E07000113,Swale,E07,TRUE
+GB-LAE-SWT,Somerset West and Taunton Council,Somerset West and Taunton,E07000246,Somerset West and Taunton,E07,TRUE
+GB-LAE-TAM,Tameside Metropolitan Borough Council,Tameside,E08000008,Tameside,E08,TRUE
+GB-LAE-TAN,Tandridge District Council,Tandridge,E07000215,Tandridge,E07,TRUE
+GB-LAE-TAU,Taunton Deane Borough Council,Taunton Deane,E07000190,Taunton Deane,E07,FALSE
+GB-LAE-TAW,Tamworth Borough Council,Tamworth,E07000199,Tamworth,E07,TRUE
+GB-LAE-TEI,Teignbridge District Council,Teignbridge,E07000045,Teignbridge,E07,TRUE
+GB-LAE-TEN,Tendring District Council,Tendring,E07000076,Tendring,E07,TRUE
+GB-LAE-TES,Test Valley Borough Council,Test Valley,E07000093,Test Valley,E07,TRUE
+GB-LAE-TEW,Tewkesbury Borough Council,Tewkesbury,E07000083,Tewkesbury,E07,TRUE
+GB-LAE-TFW,Telford & Wrekin Council,Telford and Wrekin,E06000020,Telford and Wrekin,E06,TRUE
+GB-LAE-THA,Thanet District Council,Thanet,E07000114,Thanet,E07,TRUE
+GB-LAE-THE,Three Rivers District Council,Three Rivers,E07000102,Three Rivers,E07,TRUE
+GB-LAE-THR,Thurrock Council,Thurrock,E06000034,Thurrock,E06,TRUE
+GB-LAE-TOB,Torbay Council,Torbay,E06000027,Torbay,E06,TRUE
+GB-LAE-TON,Tonbridge and Malling Borough Council,Tonbridge and Malling,E07000115,Tonbridge and Malling,E07,TRUE
+GB-LAE-TOR,Torridge District Council,Torridge,E07000046,Torridge,E07,TRUE
+GB-LAE-TRF,Trafford Metropolitan Borough Council,Trafford,E08000009,Trafford,E08,TRUE
+GB-LAE-TUN,Tunbridge Wells Borough Council,Tunbridge Wells,E07000116,Tunbridge Wells,E07,TRUE
+GB-LAE-TVCA,Tees Valley Combined Authority,Tees Valley,E47000006,Tees Valley,E47,TRUE
+GB-LAE-TWH,London Borough of Tower Hamlets,Tower Hamlets,E09000030,Tower Hamlets,E09,TRUE
+GB-LAE-UTT,Uttlesford District Council,Uttlesford,E07000077,Uttlesford,E07,TRUE
+GB-LAE-VAL,Vale of White Horse District Council,Vale of White Horse,E07000180,Vale of White Horse,E07,TRUE
+GB-LAE-WAE,Waverley Borough Council,Waverley,E07000216,Waverley,E07,TRUE
+GB-LAE-WAR,Warwickshire County Council,Warwickshire,E10000031,Warwickshire,E10,TRUE
+GB-LAE-WAT,Watford Borough Council,Watford,E07000103,Watford,E07,TRUE
+GB-LAE-WAV,Waveney District Council,Waveney,E07000206,Waveney,E07,FALSE
+GB-LAE-WAW,Warwick District Council,Warwick,E07000222,Warwick,E07,TRUE
+GB-LAE-WBK,West Berkshire Council,West Berkshire,E06000037,West Berkshire,E06,TRUE
+GB-LAE-WDE,West Devon Borough Council,West Devon,E07000047,West Devon,E07,TRUE
+GB-LAE-WDO,West Dorset District Council,West Dorset,E07000052,West Dorset,E07,FALSE
+GB-LAE-WEA,Wealden District Council,Wealden,E07000065,Wealden,E07,TRUE
+GB-LAE-WECA,West of England Combined Authority,West of England,E47000009,West of England,E47,TRUE
+GB-LAE-WEL,Wellingborough Borough Council,Wellingborough,E07000156,Wellingborough,E07,FALSE
+GB-LAE-WEW,Welwyn Hatfield Borough Council,Welwyn Hatfield,E07000104,Welwyn Hatfield,E07,TRUE
+GB-LAE-WEY,Weymouth and Portland Borough Council,Weymouth and Portland,E07000053,Weymouth and Portland,E07,FALSE
+GB-LAE-WFT,London Borough of Waltham Forest,Waltham Forest,E09000031,Waltham Forest,E09,TRUE
+GB-LAE-WGN,Wigan Metropolitan Borough Council,Wigan,E08000010,Wigan,E08,TRUE
+GB-LAE-WIL,Wiltshire Council,Wiltshire,E06000054,Wiltshire,E06,TRUE
+GB-LAE-WIN,Winchester City Council,Winchester,E07000094,Winchester,E07,TRUE
+GB-LAE-WKF,Wakefield Metropolitan District Council,Wakefield,E08000036,Wakefield,E08,TRUE
+GB-LAE-WLA,West Lancashire Borough Council,West Lancashire,E07000127,West Lancashire,E07,TRUE
+GB-LAE-WLI,West Lindsey District Council,West Lindsey,E07000142,West Lindsey,E07,TRUE
+GB-LAE-WLL,Walsall Metropolitan Borough Council,Walsall,E08000030,Walsall,E08,TRUE
+GB-LAE-WLV,City of Wolverhampton Council,Wolverhampton,E08000031,Wolverhampton,E08,TRUE
+GB-LAE-WMCA,West Midlands Combined Authority,West Midlands,E47000007,West Midlands,E47,TRUE
+GB-LAE-WND,London Borough of Wandsworth,Wandsworth,E09000032,Wandsworth,E09,TRUE
+GB-LAE-WNM,Royal Borough of Windsor and Maidenhead,Windsor and Maidenhead,E06000040,Windsor and Maidenhead,E06,TRUE
+GB-LAE-WOC,Worcester City Council,Worcester,E07000237,Worcester,E07,TRUE
+GB-LAE-WOI,Woking Borough Council,Woking,E07000217,Woking,E07,TRUE
+GB-LAE-WOK,Wokingham Borough Council,Wokingham,E06000041,Wokingham,E06,TRUE
+GB-LAE-WOR,Worcestershire County Council,Worcestershire,E10000034,Worcestershire,E10,TRUE
+GB-LAE-WOT,Worthing Borough Council,Worthing,E07000229,Worthing,E07,TRUE
+GB-LAE-WOX,West Oxfordshire District Council,West Oxfordshire,E07000181,West Oxfordshire,E07,TRUE
+GB-LAE-WRL,Wirral Borough Council,Wirral,E08000015,Wirral,E08,TRUE
+GB-LAE-WRT,Warrington Borough Council,Warrington,E06000007,Warrington,E06,TRUE
+GB-LAE-WSK,West Suffolk Council,West Suffolk,E07000245,West Suffolk,E07,TRUE
+GB-LAE-WSM,City of Westminster,Westminster,E09000033,Westminster,E09,TRUE
+GB-LAE-WSO,West Somerset District Council,West Somerset,E07000191,West Somerset,E07,FALSE
+GB-LAE-WSX,West Sussex County Council,West Sussex,E10000032,West Sussex,E10,TRUE
+GB-LAE-WYC,Wychavon District Council,Wychavon,E07000238,Wychavon,E07,TRUE
+GB-LAE-WYE,Wyre Forest District Council,Wyre Forest,E07000239,Wyre Forest,E07,TRUE
+GB-LAE-WYO,Wycombe District Council,Wycombe,E07000007,Wycombe,E07,FALSE
+GB-LAE-WYR,Wyre Borough Council,Wyre,E07000128,Wyre,E07,TRUE
+GB-LAE-YOR,City of York Council,York,E06000014,York,E06,TRUE
+GB-LANI-ABC,"Armagh City, Banbridge and Craigavon Borough Council","Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",N09,TRUE
+GB-LANI-AND,Ards and North Down Borough Council,Ards and North Down,N09000011,Ards and North Down,N09,TRUE
+GB-LANI-ANN,Antrim & Newtownabbey Borough Council,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,N09,TRUE
+GB-LANI-ANT,Antrim Borough Council,Antrim,,,,FALSE
+GB-LANI-ARD,Ards Borough Council,Ards,,,,FALSE
+GB-LANI-ARM,Armagh City and District Council,Armagh,,,,FALSE
+GB-LANI-BFS,Belfast City Council,Belfast,N09000003,Belfast,N09,TRUE
+GB-LANI-BLA,Ballymena Borough Council,Ballymena,,,,FALSE
+GB-LANI-BLY,Ballymoney Borough Council,Ballymoney,,,,FALSE
+GB-LANI-BNB,Banbridge District Council,Banbridge,,,,FALSE
+GB-LANI-CCG,Causeway Coast and Glens Borough Council,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,N09,TRUE
+GB-LANI-CGV,Craigavon Borough Council,Craigavon,,,,FALSE
+GB-LANI-CKF,Carrickfergus Borough Council,Carrickfergus,,,,FALSE
+GB-LANI-CKT,Cookstown District Council,Cookstown,,,,FALSE
+GB-LANI-CLR,Coleraine Borough Council,Coleraine,,,,FALSE
+GB-LANI-CSR,Castlereagh Borough Council,Castlereagh,,,,FALSE
+GB-LANI-DGN,Dungannon and South Tyrone Borough Council,Dungannon and South Tyrone,,,,FALSE
+GB-LANI-DOW,Down District Council,Down,,,,FALSE
+GB-LANI-DRS,Derry City and Strabane District Council,Derry City and Strabane,N09000005,Derry City and Strabane,N09,TRUE
+GB-LANI-DRY,Derry City Council,Derry,,,,FALSE
+GB-LANI-FER,Fermanagh District Council,Fermanagh,,,,FALSE
+GB-LANI-FMO,Fermanagh and Omagh District Council,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,N09,TRUE
+GB-LANI-LBC,Lisburn & Castlereagh City Council,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,N09,TRUE
+GB-LANI-LMV,Limavady Borough Council,Limavady,,,,FALSE
+GB-LANI-LRN,Larne Borough Council,Larne,,,,FALSE
+GB-LANI-LSB,Lisburn City Council,Lisburn,,,,FALSE
+GB-LANI-MEA,Mid & East Antrim Borough Council,Mid and East Antrim,N09000008,Mid and East Antrim,N09,TRUE
+GB-LANI-MFT,Magherafelt District Council,Magherafelt,,,,FALSE
+GB-LANI-MUL,Mid Ulster District Council,Mid Ulster,N09000009,Mid Ulster,N09,TRUE
+GB-LANI-MYL,Moyle District Council,Moyle,,,,FALSE
+GB-LANI-NDN,North Down Borough Council,North Down,,,,FALSE
+GB-LANI-NMD,"Newry, Mourne and Down District Council","Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",N09,TRUE
+GB-LANI-NTA,Newtownabbey Borough Council,Newtownabbey,,,,FALSE
+GB-LANI-NYM,Newry and Mourne District Council,Newry and Mourne,,,,FALSE
+GB-LANI-OMH,Omagh District Council,Omagh,,,,FALSE
+GB-LANI-STB,Strabane District Council,Strabane,,,,FALSE
+GB-LAS-ABD,The Aberdeenshire Council,Aberdeenshire,S12000034,Aberdeenshire,S12,TRUE
+GB-LAS-ABE,The Aberdeen City Council,Aberdeen,S12000033,Aberdeen City,S12,TRUE
+GB-LAS-AGB,The Argyll and Bute Council,Argyll and Bute,S12000035,Argyll and Bute,S12,TRUE
+GB-LAS-ANS,The Angus Council,Angus,S12000041,Angus,S12,TRUE
+GB-LAS-CLK,The Clackmannanshire Council,Clackmannanshire,S12000005,Clackmannanshire,S12,TRUE
+GB-LAS-DGY,The Dumfries and Galloway Council,Dumfries and Galloway,S12000006,Dumfries and Galloway,S12,TRUE
+GB-LAS-DND,The Dundee City Council,Dundee,S12000042,Dundee City,S12,TRUE
+GB-LAS-EAY,The East Ayrshire Council,East Ayrshire,S12000008,East Ayrshire,S12,TRUE
+GB-LAS-EDH,The City of Edinburgh Council,Edinburgh,S12000036,City of Edinburgh,S12,TRUE
+GB-LAS-EDU,The East Dunbartonshire Council,East Dunbartonshire,S12000045,East Dunbartonshire,S12,TRUE
+GB-LAS-ELN,The East Lothian Council,East Lothian,S12000010,East Lothian,S12,TRUE
+GB-LAS-ELS,Comhairle nan Eilean Siar,Eilean Siar,S12000013,Na h-Eileanan Siar,S12,TRUE
+GB-LAS-ERW,The East Renfrewshire Council,East Renfrewshire,S12000011,East Renfrewshire,S12,TRUE
+GB-LAS-FAL,The Falkirk Council,Falkirk,S12000014,Falkirk,S12,TRUE
+GB-LAS-FIF,The Fife Council,Fife,S12000015,Fife,S12,TRUE
+GB-LAS-GLG,The Glasgow City Council,Glasgow,S12000049,Glasgow City,S12,TRUE
+GB-LAS-HLD,The Highland Council,Highland,S12000017,Highland,S12,TRUE
+GB-LAS-IVC,The Inverclyde Council,Inverclyde,S12000018,Inverclyde,S12,TRUE
+GB-LAS-MLN,The Midlothian Council,Midlothian,S12000019,Midlothian,S12,TRUE
+GB-LAS-MRY,The Moray Council,Moray,S12000020,Moray,S12,TRUE
+GB-LAS-NAY,The North Ayrshire Council,North Ayrshire,S12000021,North Ayrshire,S12,TRUE
+GB-LAS-NLK,The North Lanarkshire Council,North Lanarkshire,S12000044,North Lanarkshire,S12,TRUE
+GB-LAS-ORK,Orkney Islands Council,Orkney Islands,S12000023,Orkney Islands,S12,TRUE
+GB-LAS-PKN,The Perth and Kinross Council,Perth and Kinross,S12000024,Perth and Kinross,S12,TRUE
+GB-LAS-RFW,The Renfrewshire Council,Renfrewshire,S12000038,Renfrewshire,S12,TRUE
+GB-LAS-SAY,The South Ayrshire Council,South Ayrshire,S12000028,South Ayrshire,S12,TRUE
+GB-LAS-SCB,The Scottish Borders Council,Scottish Borders,S12000026,Scottish Borders,S12,TRUE
+GB-LAS-SLK,The South Lanarkshire Council,South Lanarkshire,S12000029,South Lanarkshire,S12,TRUE
+GB-LAS-STG,The Stirling Council,Stirling,S12000030,Stirling,S12,TRUE
+GB-LAS-WDU,The West Dunbartonshire Council,West Dunbartonshire,S12000039,West Dunbartonshire,S12,TRUE
+GB-LAS-WLN,The West Lothian Council,West Lothian,S12000040,West Lothian,S12,TRUE
+GB-LAS-ZET,Shetland Islands Council,Shetland Islands,S12000027,Shetland Islands,S12,TRUE
+GB-PLA-AGY,Isle of Anglesey County Council,Isle of Anglesey,W06000001,Isle of Anglesey,W06,TRUE
+GB-PLA-BGE,Bridgend County Borough Council,Bridgend,W06000013,Bridgend,W06,TRUE
+GB-PLA-BGW,Blaenau Gwent County Borough Council,Blaenau Gwent,W06000019,Blaenau Gwent,W06,TRUE
+GB-PLA-CAY,Caerphilly County Borough Council,Caerphilly,W06000018,Caerphilly,W06,TRUE
+GB-PLA-CGN,Ceredigion County Council,Ceredigion,W06000008,Ceredigion,W06,TRUE
+GB-PLA-CMN,Carmarthenshire County Council,Carmarthenshire,W06000010,Carmarthenshire,W06,TRUE
+GB-PLA-CRF,City of Cardiff Council,Cardiff,W06000015,Cardiff,W06,TRUE
+GB-PLA-CWY,Conwy County Borough Council,Conwy,W06000003,Conwy,W06,TRUE
+GB-PLA-DEN,Denbighshire County Council,Denbighshire,W06000004,Denbighshire,W06,TRUE
+GB-PLA-FLN,Flintshire County Council,Flintshire,W06000005,Flintshire,W06,TRUE
+GB-PLA-GWN,Gwynedd Council,Gwynedd,W06000002,Gwynedd,W06,TRUE
+GB-PLA-MON,Monmouthshire County Council,Monmouthshire,W06000021,Monmouthshire,W06,TRUE
+GB-PLA-MTY,Merthyr Tydfil County Borough Council,Merthyr Tydfil,W06000024,Merthyr Tydfil,W06,TRUE
+GB-PLA-NTL,Neath Port Talbot County Borough Council,Neath Port Talbot,W06000012,Neath Port Talbot,W06,TRUE
+GB-PLA-NWP,Newport City Council,Newport,W06000022,Newport,W06,TRUE
+GB-PLA-PEM,Pembrokeshire County Council,Pembrokeshire,W06000009,Pembrokeshire,W06,TRUE
+GB-PLA-POW,Powys County Council,Powys,W06000023,Powys,W06,TRUE
+GB-PLA-RCT,Rhondda Cynon Taf County Borough Council,Rhondda Cynon Taf,W06000016,Rhondda Cynon Taf,W06,TRUE
+GB-PLA-SWA,City and County of Swansea Council,Swansea,W06000011,Swansea,W06,TRUE
+GB-PLA-TOF,Torfaen County Borough Council,Torfaen,W06000020,Torfaen,W06,TRUE
+GB-PLA-VGL,Vale of Glamorgan Council,Vale of Glamorgan,W06000014,Vale of Glamorgan,W06,TRUE
+GB-PLA-WRX,Wrexham County Borough Council,Wrexham,W06000006,Wrexham,W06,TRUE
+GB-LAE-WNT,West Northamptonshire Council,West Northamptonshire,E06000062,West Northamptonshire,E06,TRUE
+GB-LAE-NNT,North Northamptonshire Council,North Northamptonshire,E06000061,North Northamptonshire,E06,TRUE

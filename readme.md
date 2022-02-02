@@ -269,6 +269,22 @@ Fields:
 - `UKCD` - United Kingdom code
 - `UKNM` - United Kingdom name
 
+## [`la_orgid_to_gss.csv`](la_orgid_to_gss.csv)
+
+A lookup between the codes for Local Authorities from the (now defunct) registers of
+Local Authorities held by gov.uk with the GSS codes for the areas they represent.
+
+Fields:
+
+
+- `org_id` - Council identifier
+- `name` - Name of the Council
+- `normalised_name` - Area name standardised
+- `gss_code` - GSS Code for the area
+- `area_name` - Name of the area from GSS record
+- `area_type` - Entity type of the area
+- `active` - Whether it's a currently active area
+
 ## Data sources
 
 Data is sourced from the [ONS Geoportal](http://geoportal.statistics.gov.uk/) and used under the Open Government Licence v3.0. 
