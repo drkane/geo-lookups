@@ -18,7 +18,7 @@ GB-LAE-BDG,London Borough of Barking and Dagenham,Barking and Dagenham,E09000002
 GB-LAE-BEN,London Borough of Brent,Brent,E09000005,Brent,E09,TRUE
 GB-LAE-BEX,London Borough of Bexley,Bexley,E09000004,Bexley,E09,TRUE
 GB-LAE-BIR,Birmingham City Council,Birmingham,E08000025,Birmingham,E08,TRUE
-GB-LAE-BKM,Buckinghamshire County Council,Buckinghamshire,E06000060,Buckinghamshire,E06,FALSE
+GB-LAE-BKM,Buckinghamshire County Council,Buckinghamshire,E10000002,Buckinghamshire,E10,FALSE
 GB-LAE-BLA,Blaby District Council,Blaby,E07000129,Blaby,E07,TRUE
 GB-LAE-BMH,Bournemouth Borough Council,Bournemouth,E06000028,Bournemouth,E06,FALSE
 GB-LAE-BNE,London Borough of Barnet,Barnet,E09000003,Barnet,E09,TRUE
@@ -83,7 +83,7 @@ GB-LAE-DEB,Derbyshire Dales District Council,Derbyshire Dales,E07000035,Derbyshi
 GB-LAE-DER,Derby City Council,Derby,E06000015,Derby,E06,TRUE
 GB-LAE-DEV,Devon County Council,Devon,E10000008,Devon,E10,TRUE
 GB-LAE-DNC,Doncaster Metropolitan Borough Council,Doncaster,E08000017,Doncaster,E08,TRUE
-GB-LAE-DOR,Dorset County Council,Dorset,E06000059,Dorset,E06,FALSE
+GB-LAE-DOR,Dorset County Council,Dorset,E10000009,Dorset,E06,FALSE
 GB-LAE-DOV,Dover District Council,Dover,E07000108,Dover,E07,TRUE
 GB-LAE-DST,Dorset Council,Dorset,E06000059,Dorset,E06,TRUE
 GB-LAE-DUD,Dudley Metropolitan Borough Council,Dudley,E08000027,Dudley,E08,TRUE
