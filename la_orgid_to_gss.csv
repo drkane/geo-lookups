@@ -96,7 +96,7 @@ GB-LAE-EDE,East Devon District Council,East Devon,E07000040,East Devon,E07,TRUE
 GB-LAE-EDN,Eden District Council,Eden,E07000030,Eden,E07,TRUE
 GB-LAE-EDO,East Dorset District Council,East Dorset,E07000049,East Dorset,E07,FALSE
 GB-LAE-EHA,East Hampshire District Council,East Hampshire,E07000085,East Hampshire,E07,TRUE
-GB-LAE-EHE,East Hertfordshire District Council,East Hertfordshire,E07000097,East Hertfordshire,E07,TRUE
+GB-LAE-EHE,East Hertfordshire District Council,East Hertfordshire,E07000242,East Hertfordshire,E07,TRUE
 GB-LAE-ELI,East Lindsey District Council,East Lindsey,E07000137,East Lindsey,E07,TRUE
 GB-LAE-ELM,Elmbridge Borough Council,Elmbridge,E07000207,Elmbridge,E07,TRUE
 GB-LAE-ENF,London Borough of Enfield,Enfield,E09000010,Enfield,E09,TRUE
@@ -115,7 +115,7 @@ GB-LAE-FEN,Fenland District Council,Fenland,E07000010,Fenland,E07,TRUE
 GB-LAE-FOE,Forest of Dean District Council,Forest of Dean,E07000080,Forest of Dean,E07,TRUE
 GB-LAE-FOR,Forest Heath District Council,Forest Heath,E07000201,Forest Heath,E07,FALSE
 GB-LAE-FYL,Fylde Borough Council,Fylde,E07000119,Fylde,E07,TRUE
-GB-LAE-GAT,Gateshead Metropolitan Borough Council,Gateshead,E08000020,Gateshead,E08,TRUE
+GB-LAE-GAT,Gateshead Metropolitan Borough Council,Gateshead,E08000037,Gateshead,E08,TRUE
 GB-LAE-GED,Gedling Borough Council,Gedling,E07000173,Gedling,E07,TRUE
 GB-LAE-GLA,Greater London Authority,London,E12000007,London,E12,TRUE
 GB-LAE-GLO,Gloucester City Council,Gloucester,E07000081,Gloucester,E07,TRUE
@@ -193,7 +193,7 @@ GB-LAE-MOL,Mole Valley District Council,Mole Valley,E07000210,Mole Valley,E07,TR
 GB-LAE-MRT,London Borough of Merton,Merton,E09000024,Merton,E09,TRUE
 GB-LAE-MSS,Mid Sussex District Council,Mid Sussex,E07000228,Mid Sussex,E07,TRUE
 GB-LAE-MSU,Mid Suffolk District Council,Mid Suffolk,E07000203,Mid Suffolk,E07,TRUE
-GB-LAE-NBL,Northumberland County Council,Northumberland,E06000048,Northumberland,E06,TRUE
+GB-LAE-NBL,Northumberland County Council,Northumberland,E06000057,Northumberland,E06,TRUE
 GB-LAE-NDE,North Devon District Council,North Devon,E07000043,North Devon,E07,TRUE
 GB-LAE-NDO,North Dorset District Council,North Dorset,E07000050,North Dorset,E07,FALSE
 GB-LAE-NEA,Newark and Sherwood District Council,Newark and Sherwood,E07000175,Newark and Sherwood,E07,TRUE
@@ -295,7 +295,7 @@ GB-LAE-STO,Stroud District Council,Stroud,E07000082,Stroud,E07,TRUE
 GB-LAE-STR,Stratford-on-Avon District Council,Stratford-on-Avon,E07000221,Stratford-on-Avon,E07,TRUE
 GB-LAE-STS,Staffordshire County Council,Staffordshire,E10000028,Staffordshire,E10,TRUE
 GB-LAE-STT,Stockton-on-Tees Borough Council,Stockton-on-Tees,E06000004,Stockton-on-Tees,E06,TRUE
-GB-LAE-STV,Stevenage Borough Council,Stevenage,E07000101,Stevenage,E07,TRUE
+GB-LAE-STV,Stevenage Borough Council,Stevenage,E07000243,Stevenage,E07,TRUE
 GB-LAE-STY,South Tyneside Council,South Tyneside,E08000023,South Tyneside,E08,TRUE
 GB-LAE-SUF,Suffolk Coastal District Council,Suffolk Coastal,E07000205,Suffolk Coastal,E07,FALSE
 GB-LAE-SUR,Surrey Heath Borough Council,Surrey Heath,E07000214,Surrey Heath,E07,TRUE
@@ -335,7 +335,7 @@ GB-LAE-WDO,West Dorset District Council,West Dorset,E07000052,West Dorset,E07,FA
 GB-LAE-WEA,Wealden District Council,Wealden,E07000065,Wealden,E07,TRUE
 GB-LAE-WECA,West of England Combined Authority,West of England,E47000009,West of England,E47,TRUE
 GB-LAE-WEL,Wellingborough Borough Council,Wellingborough,E07000156,Wellingborough,E07,FALSE
-GB-LAE-WEW,Welwyn Hatfield Borough Council,Welwyn Hatfield,E07000104,Welwyn Hatfield,E07,TRUE
+GB-LAE-WEW,Welwyn Hatfield Borough Council,Welwyn Hatfield,E07000241,Welwyn Hatfield,E07,TRUE
 GB-LAE-WEY,Weymouth and Portland Borough Council,Weymouth and Portland,E07000053,Weymouth and Portland,E07,FALSE
 GB-LAE-WFT,London Borough of Waltham Forest,Waltham Forest,E09000031,Waltham Forest,E09,TRUE
 GB-LAE-WGN,Wigan Metropolitan Borough Council,Wigan,E08000010,Wigan,E08,TRUE
@@ -416,16 +416,16 @@ GB-LAS-ELN,The East Lothian Council,East Lothian,S12000010,East Lothian,S12,TRUE
 GB-LAS-ELS,Comhairle nan Eilean Siar,Eilean Siar,S12000013,Na h-Eileanan Siar,S12,TRUE
 GB-LAS-ERW,The East Renfrewshire Council,East Renfrewshire,S12000011,East Renfrewshire,S12,TRUE
 GB-LAS-FAL,The Falkirk Council,Falkirk,S12000014,Falkirk,S12,TRUE
-GB-LAS-FIF,The Fife Council,Fife,S12000015,Fife,S12,TRUE
+GB-LAS-FIF,The Fife Council,Fife,S12000047,Fife,S12,TRUE
 GB-LAS-GLG,The Glasgow City Council,Glasgow,S12000049,Glasgow City,S12,TRUE
 GB-LAS-HLD,The Highland Council,Highland,S12000017,Highland,S12,TRUE
 GB-LAS-IVC,The Inverclyde Council,Inverclyde,S12000018,Inverclyde,S12,TRUE
 GB-LAS-MLN,The Midlothian Council,Midlothian,S12000019,Midlothian,S12,TRUE
 GB-LAS-MRY,The Moray Council,Moray,S12000020,Moray,S12,TRUE
 GB-LAS-NAY,The North Ayrshire Council,North Ayrshire,S12000021,North Ayrshire,S12,TRUE
-GB-LAS-NLK,The North Lanarkshire Council,North Lanarkshire,S12000044,North Lanarkshire,S12,TRUE
+GB-LAS-NLK,The North Lanarkshire Council,North Lanarkshire,S12000050,North Lanarkshire,S12,TRUE
 GB-LAS-ORK,Orkney Islands Council,Orkney Islands,S12000023,Orkney Islands,S12,TRUE
-GB-LAS-PKN,The Perth and Kinross Council,Perth and Kinross,S12000024,Perth and Kinross,S12,TRUE
+GB-LAS-PKN,The Perth and Kinross Council,Perth and Kinross,S12000048,Perth and Kinross,S12,TRUE
 GB-LAS-RFW,The Renfrewshire Council,Renfrewshire,S12000038,Renfrewshire,S12,TRUE
 GB-LAS-SAY,The South Ayrshire Council,South Ayrshire,S12000028,South Ayrshire,S12,TRUE
 GB-LAS-SCB,The Scottish Borders Council,Scottish Borders,S12000026,Scottish Borders,S12,TRUE
