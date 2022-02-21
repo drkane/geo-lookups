@@ -269,6 +269,12 @@ Fields:
 - `UKCD` - United Kingdom code
 - `UKNM` - United Kingdom name
 
+The following files are also created for completeness, although they only include one record each.
+
+- [`ew_all_codes.csv`](ew_all_codes.csv)
+- [`gb_all_codes.csv`](gb_all_codes.csv)
+- [`uk_all_codes.csv`](uk_all_codes.csv)
+
 ## [`la_orgid_to_gss.csv`](la_orgid_to_gss.csv)
 
 A lookup between the codes for Local Authorities from the (now defunct) registers of
@@ -284,6 +290,38 @@ Fields:
 - `area_name` - Name of the area from GSS record
 - `area_type` - Entity type of the area
 - `active` - Whether it's a currently active area
+
+## [`area_all_codes.csv`](la_all_codes.csv)
+
+Based on `la_all_codes.csv`, this file also adds records for administrative geography at a higher level than local authority districts, so there are records for:
+ - upper tier local authorities
+ - combined authorities
+ - regions
+ - countries (including "England and Wales", "Great Britain" and "United Kingdom" as separate codes)
+
+Each record contains links to areas that can be inferred from the given code. Where defunct local authorities are included, their record links to the most up to date code for that authority.
+
+Fields:
+
+- `areacode` - GSS code for the area
+- `areaname` - Name for the area
+- `areatype` - Type of area. One of (`la`, `utla`, `cauth`, `rgn`, `ctry`, `ew`, `gb`, `uk`)
+- `LADCD` - Local Authority code (the most recent code that covers this area)
+- `LADNM` - Local Authority name (the most recent name that covers this area)
+- `UTLACD` - Upper tier local authority code
+- `UTLANM` - Upper tier local authority name
+- `CAUTHCD` - Combined authority code
+- `CAUTHNM` - Combined authority name
+- `RGNCD` - Region code
+- `RGNNM` - Region name
+- `CTRYCD` - Country code
+- `CTRYNM` - Country name
+- `EWCD` - England and Wales code
+- `EWNM` - England and Wales name
+- `GBCD` - Great Britain code
+- `GBNM` - Great Britain name
+- `UKCD` - United Kingdom code
+- `UKNM` - United Kingdom name
 
 ## Data sources
 

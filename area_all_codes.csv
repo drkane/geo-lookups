@@ -1,0 +1,653 @@
+areacode,areaname,areatype,LADCD,LADNM,UTLACD,UTLANM,CAUTHCD,CAUTHNM,RGNCD,RGNNM,CTRYCD,CTRYNM,EWCD,EWNM,GBCD,GBNM,UKCD,UKNM
+E06000001,Hartlepool,la,E06000001,Hartlepool,E06000001,Hartlepool,E47000006,Tees Valley,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000002,Middlesbrough,la,E06000002,Middlesbrough,E06000002,Middlesbrough,E47000006,Tees Valley,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000003,Redcar and Cleveland,la,E06000003,Redcar and Cleveland,E06000003,Redcar and Cleveland,E47000006,Tees Valley,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000004,Stockton-on-Tees,la,E06000004,Stockton-on-Tees,E06000004,Stockton-on-Tees,E47000006,Tees Valley,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000005,Darlington,la,E06000005,Darlington,E06000005,Darlington,E47000006,Tees Valley,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000006,Halton,la,E06000006,Halton,E06000006,Halton,E47000004,Liverpool City Region,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000007,Warrington,la,E06000007,Warrington,E06000007,Warrington,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000008,Blackburn with Darwen,la,E06000008,Blackburn with Darwen,E06000008,Blackburn with Darwen,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000009,Blackpool,la,E06000009,Blackpool,E06000009,Blackpool,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000010,"Kingston upon Hull, City of",la,E06000010,"Kingston upon Hull, City of",E06000010,"Kingston upon Hull, City of",,,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000011,East Riding of Yorkshire,la,E06000011,East Riding of Yorkshire,E06000011,East Riding of Yorkshire,,,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000012,North East Lincolnshire,la,E06000012,North East Lincolnshire,E06000012,North East Lincolnshire,,,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000013,North Lincolnshire,la,E06000013,North Lincolnshire,E06000013,North Lincolnshire,,,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000014,York,la,E06000014,York,E06000014,York,,,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000015,Derby,la,E06000015,Derby,E06000015,Derby,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000016,Leicester,la,E06000016,Leicester,E06000016,Leicester,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000017,Rutland,la,E06000017,Rutland,E06000017,Rutland,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000018,Nottingham,la,E06000018,Nottingham,E06000018,Nottingham,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000019,"Herefordshire, County of",la,E06000019,"Herefordshire, County of",E06000019,"Herefordshire, County of",,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000020,Telford and Wrekin,la,E06000020,Telford and Wrekin,E06000020,Telford and Wrekin,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000021,Stoke-on-Trent,la,E06000021,Stoke-on-Trent,E06000021,Stoke-on-Trent,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000022,Bath and North East Somerset,la,E06000022,Bath and North East Somerset,E06000022,Bath and North East Somerset,E47000009,West of England,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000023,"Bristol, City of",la,E06000023,"Bristol, City of",E06000023,"Bristol, City of",E47000009,West of England,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000024,North Somerset,la,E06000024,North Somerset,E06000024,North Somerset,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000025,South Gloucestershire,la,E06000025,South Gloucestershire,E06000025,South Gloucestershire,E47000009,West of England,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000026,Plymouth,la,E06000026,Plymouth,E06000026,Plymouth,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000027,Torbay,la,E06000027,Torbay,E06000027,Torbay,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000028,Bournemouth,la,E06000058,"Bournemouth, Christchurch and Poole",E06000058,"Bournemouth, Christchurch and Poole",,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000029,Poole,la,E06000058,"Bournemouth, Christchurch and Poole",E06000058,"Bournemouth, Christchurch and Poole",,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000030,Swindon,la,E06000030,Swindon,E06000030,Swindon,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000031,Peterborough,la,E06000031,Peterborough,E06000031,Peterborough,E47000008,Cambridgeshire and Peterborough,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000032,Luton,la,E06000032,Luton,E06000032,Luton,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000033,Southend-on-Sea,la,E06000033,Southend-on-Sea,E06000033,Southend-on-Sea,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000034,Thurrock,la,E06000034,Thurrock,E06000034,Thurrock,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000035,Medway,la,E06000035,Medway,E06000035,Medway,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000036,Bracknell Forest,la,E06000036,Bracknell Forest,E06000036,Bracknell Forest,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000037,West Berkshire,la,E06000037,West Berkshire,E06000037,West Berkshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000038,Reading,la,E06000038,Reading,E06000038,Reading,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000039,Slough,la,E06000039,Slough,E06000039,Slough,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000040,Windsor and Maidenhead,la,E06000040,Windsor and Maidenhead,E06000040,Windsor and Maidenhead,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000041,Wokingham,la,E06000041,Wokingham,E06000041,Wokingham,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000042,Milton Keynes,la,E06000042,Milton Keynes,E06000042,Milton Keynes,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000043,Brighton and Hove,la,E06000043,Brighton and Hove,E06000043,Brighton and Hove,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000044,Portsmouth,la,E06000044,Portsmouth,E06000044,Portsmouth,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000045,Southampton,la,E06000045,Southampton,E06000045,Southampton,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000046,Isle of Wight,la,E06000046,Isle of Wight,E06000046,Isle of Wight,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000047,County Durham,la,E06000047,County Durham,E06000047,County Durham,E47000010,North East,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000048,Northumberland,la,E06000057,Northumberland,E06000057,Northumberland,E47000011,North of Tyne,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000049,Cheshire East,la,E06000049,Cheshire East,E06000049,Cheshire East,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000050,Cheshire West and Chester,la,E06000050,Cheshire West and Chester,E06000050,Cheshire West and Chester,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000051,Shropshire,la,E06000051,Shropshire,E06000051,Shropshire,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000052,Cornwall,la,E06000052,Cornwall,E06000052,Cornwall,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000053,Isles of Scilly,la,E06000053,Isles of Scilly,E06000053,Isles of Scilly,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000054,Wiltshire,la,E06000054,Wiltshire,E06000054,Wiltshire,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000055,Bedford,la,E06000055,Bedford,E06000055,Bedford,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000056,Central Bedfordshire,la,E06000056,Central Bedfordshire,E06000056,Central Bedfordshire,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000057,Northumberland,la,E06000057,Northumberland,E06000057,Northumberland,E47000011,North of Tyne,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000058,"Bournemouth, Christchurch and Poole",la,E06000058,"Bournemouth, Christchurch and Poole",E06000058,"Bournemouth, Christchurch and Poole",,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000059,Dorset,la,E06000059,Dorset,E06000059,Dorset,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000060,Buckinghamshire,la,E06000060,Buckinghamshire,E06000060,Buckinghamshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000061,North Northamptonshire,la,E06000061,North Northamptonshire,E06000061,North Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000062,West Northamptonshire,la,E06000062,West Northamptonshire,E06000062,West Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000004,Aylesbury Vale,la,E06000060,Buckinghamshire,E06000060,Buckinghamshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000005,Chiltern,la,E06000060,Buckinghamshire,E06000060,Buckinghamshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000006,South Bucks,la,E06000060,Buckinghamshire,E06000060,Buckinghamshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000007,Wycombe,la,E06000060,Buckinghamshire,E06000060,Buckinghamshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000008,Cambridge,la,E07000008,Cambridge,E10000003,Cambridgeshire,E47000008,Cambridgeshire and Peterborough,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000009,East Cambridgeshire,la,E07000009,East Cambridgeshire,E10000003,Cambridgeshire,E47000008,Cambridgeshire and Peterborough,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000010,Fenland,la,E07000010,Fenland,E10000003,Cambridgeshire,E47000008,Cambridgeshire and Peterborough,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000011,Huntingdonshire,la,E07000011,Huntingdonshire,E10000003,Cambridgeshire,E47000008,Cambridgeshire and Peterborough,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000012,South Cambridgeshire,la,E07000012,South Cambridgeshire,E10000003,Cambridgeshire,E47000008,Cambridgeshire and Peterborough,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000026,Allerdale,la,E07000026,Allerdale,E10000006,Cumbria,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000027,Barrow-in-Furness,la,E07000027,Barrow-in-Furness,E10000006,Cumbria,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000028,Carlisle,la,E07000028,Carlisle,E10000006,Cumbria,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000029,Copeland,la,E07000029,Copeland,E10000006,Cumbria,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000030,Eden,la,E07000030,Eden,E10000006,Cumbria,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000031,South Lakeland,la,E07000031,South Lakeland,E10000006,Cumbria,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000032,Amber Valley,la,E07000032,Amber Valley,E10000007,Derbyshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000033,Bolsover,la,E07000033,Bolsover,E10000007,Derbyshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000034,Chesterfield,la,E07000034,Chesterfield,E10000007,Derbyshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000035,Derbyshire Dales,la,E07000035,Derbyshire Dales,E10000007,Derbyshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000036,Erewash,la,E07000036,Erewash,E10000007,Derbyshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000037,High Peak,la,E07000037,High Peak,E10000007,Derbyshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000038,North East Derbyshire,la,E07000038,North East Derbyshire,E10000007,Derbyshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000039,South Derbyshire,la,E07000039,South Derbyshire,E10000007,Derbyshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000040,East Devon,la,E07000040,East Devon,E10000008,Devon,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000041,Exeter,la,E07000041,Exeter,E10000008,Devon,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000042,Mid Devon,la,E07000042,Mid Devon,E10000008,Devon,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000043,North Devon,la,E07000043,North Devon,E10000008,Devon,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000044,South Hams,la,E07000044,South Hams,E10000008,Devon,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000045,Teignbridge,la,E07000045,Teignbridge,E10000008,Devon,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000046,Torridge,la,E07000046,Torridge,E10000008,Devon,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000047,West Devon,la,E07000047,West Devon,E10000008,Devon,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000048,Christchurch,la,E06000058,"Bournemouth, Christchurch and Poole",E06000058,"Bournemouth, Christchurch and Poole",,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000049,East Dorset,la,E06000059,Dorset,E06000059,Dorset,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000050,North Dorset,la,E06000059,Dorset,E06000059,Dorset,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000051,Purbeck,la,E06000059,Dorset,E06000059,Dorset,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000052,West Dorset,la,E06000059,Dorset,E06000059,Dorset,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000053,Weymouth and Portland,la,E06000059,Dorset,E06000059,Dorset,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000061,Eastbourne,la,E07000061,Eastbourne,E10000011,East Sussex,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000062,Hastings,la,E07000062,Hastings,E10000011,East Sussex,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000063,Lewes,la,E07000063,Lewes,E10000011,East Sussex,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000064,Rother,la,E07000064,Rother,E10000011,East Sussex,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000065,Wealden,la,E07000065,Wealden,E10000011,East Sussex,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000066,Basildon,la,E07000066,Basildon,E10000012,Essex,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000067,Braintree,la,E07000067,Braintree,E10000012,Essex,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000068,Brentwood,la,E07000068,Brentwood,E10000012,Essex,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000069,Castle Point,la,E07000069,Castle Point,E10000012,Essex,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000070,Chelmsford,la,E07000070,Chelmsford,E10000012,Essex,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000071,Colchester,la,E07000071,Colchester,E10000012,Essex,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000072,Epping Forest,la,E07000072,Epping Forest,E10000012,Essex,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000073,Harlow,la,E07000073,Harlow,E10000012,Essex,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000074,Maldon,la,E07000074,Maldon,E10000012,Essex,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000075,Rochford,la,E07000075,Rochford,E10000012,Essex,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000076,Tendring,la,E07000076,Tendring,E10000012,Essex,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000077,Uttlesford,la,E07000077,Uttlesford,E10000012,Essex,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000078,Cheltenham,la,E07000078,Cheltenham,E10000013,Gloucestershire,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000079,Cotswold,la,E07000079,Cotswold,E10000013,Gloucestershire,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000080,Forest of Dean,la,E07000080,Forest of Dean,E10000013,Gloucestershire,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000081,Gloucester,la,E07000081,Gloucester,E10000013,Gloucestershire,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000082,Stroud,la,E07000082,Stroud,E10000013,Gloucestershire,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000083,Tewkesbury,la,E07000083,Tewkesbury,E10000013,Gloucestershire,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000084,Basingstoke and Deane,la,E07000084,Basingstoke and Deane,E10000014,Hampshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000085,East Hampshire,la,E07000085,East Hampshire,E10000014,Hampshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000086,Eastleigh,la,E07000086,Eastleigh,E10000014,Hampshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000087,Fareham,la,E07000087,Fareham,E10000014,Hampshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000088,Gosport,la,E07000088,Gosport,E10000014,Hampshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000089,Hart,la,E07000089,Hart,E10000014,Hampshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000090,Havant,la,E07000090,Havant,E10000014,Hampshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000091,New Forest,la,E07000091,New Forest,E10000014,Hampshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000092,Rushmoor,la,E07000092,Rushmoor,E10000014,Hampshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000093,Test Valley,la,E07000093,Test Valley,E10000014,Hampshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000094,Winchester,la,E07000094,Winchester,E10000014,Hampshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000095,Broxbourne,la,E07000095,Broxbourne,E10000015,Hertfordshire,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000096,Dacorum,la,E07000096,Dacorum,E10000015,Hertfordshire,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000097,East Hertfordshire,la,E07000242,East Hertfordshire,E10000015,Hertfordshire,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000098,Hertsmere,la,E07000098,Hertsmere,E10000015,Hertfordshire,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000099,North Hertfordshire,la,E07000099,North Hertfordshire,E10000015,Hertfordshire,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000100,St Albans,la,E07000240,St Albans,E10000015,Hertfordshire,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000101,Stevenage,la,E07000243,Stevenage,E10000015,Hertfordshire,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000102,Three Rivers,la,E07000102,Three Rivers,E10000015,Hertfordshire,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000103,Watford,la,E07000103,Watford,E10000015,Hertfordshire,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000104,Welwyn Hatfield,la,E07000241,Welwyn Hatfield,E10000015,Hertfordshire,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000105,Ashford,la,E07000105,Ashford,E10000016,Kent,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000106,Canterbury,la,E07000106,Canterbury,E10000016,Kent,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000107,Dartford,la,E07000107,Dartford,E10000016,Kent,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000108,Dover,la,E07000108,Dover,E10000016,Kent,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000109,Gravesham,la,E07000109,Gravesham,E10000016,Kent,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000110,Maidstone,la,E07000110,Maidstone,E10000016,Kent,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000111,Sevenoaks,la,E07000111,Sevenoaks,E10000016,Kent,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000112,Folkestone and Hythe,la,E07000112,Folkestone and Hythe,E10000016,Kent,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000113,Swale,la,E07000113,Swale,E10000016,Kent,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000114,Thanet,la,E07000114,Thanet,E10000016,Kent,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000115,Tonbridge and Malling,la,E07000115,Tonbridge and Malling,E10000016,Kent,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000116,Tunbridge Wells,la,E07000116,Tunbridge Wells,E10000016,Kent,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000117,Burnley,la,E07000117,Burnley,E10000017,Lancashire,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000118,Chorley,la,E07000118,Chorley,E10000017,Lancashire,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000119,Fylde,la,E07000119,Fylde,E10000017,Lancashire,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000120,Hyndburn,la,E07000120,Hyndburn,E10000017,Lancashire,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000121,Lancaster,la,E07000121,Lancaster,E10000017,Lancashire,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000122,Pendle,la,E07000122,Pendle,E10000017,Lancashire,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000123,Preston,la,E07000123,Preston,E10000017,Lancashire,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000124,Ribble Valley,la,E07000124,Ribble Valley,E10000017,Lancashire,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000125,Rossendale,la,E07000125,Rossendale,E10000017,Lancashire,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000126,South Ribble,la,E07000126,South Ribble,E10000017,Lancashire,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000127,West Lancashire,la,E07000127,West Lancashire,E10000017,Lancashire,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000128,Wyre,la,E07000128,Wyre,E10000017,Lancashire,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000129,Blaby,la,E07000129,Blaby,E10000018,Leicestershire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000130,Charnwood,la,E07000130,Charnwood,E10000018,Leicestershire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000131,Harborough,la,E07000131,Harborough,E10000018,Leicestershire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000132,Hinckley and Bosworth,la,E07000132,Hinckley and Bosworth,E10000018,Leicestershire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000133,Melton,la,E07000133,Melton,E10000018,Leicestershire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000134,North West Leicestershire,la,E07000134,North West Leicestershire,E10000018,Leicestershire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000135,Oadby and Wigston,la,E07000135,Oadby and Wigston,E10000018,Leicestershire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000136,Boston,la,E07000136,Boston,E10000019,Lincolnshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000137,East Lindsey,la,E07000137,East Lindsey,E10000019,Lincolnshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000138,Lincoln,la,E07000138,Lincoln,E10000019,Lincolnshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000139,North Kesteven,la,E07000139,North Kesteven,E10000019,Lincolnshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000140,South Holland,la,E07000140,South Holland,E10000019,Lincolnshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000141,South Kesteven,la,E07000141,South Kesteven,E10000019,Lincolnshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000142,West Lindsey,la,E07000142,West Lindsey,E10000019,Lincolnshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000143,Breckland,la,E07000143,Breckland,E10000020,Norfolk,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000144,Broadland,la,E07000144,Broadland,E10000020,Norfolk,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000145,Great Yarmouth,la,E07000145,Great Yarmouth,E10000020,Norfolk,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000146,King's Lynn and West Norfolk,la,E07000146,King's Lynn and West Norfolk,E10000020,Norfolk,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000147,North Norfolk,la,E07000147,North Norfolk,E10000020,Norfolk,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000148,Norwich,la,E07000148,Norwich,E10000020,Norfolk,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000149,South Norfolk,la,E07000149,South Norfolk,E10000020,Norfolk,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000150,Corby,la,E06000061,North Northamptonshire,E06000061,North Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000151,Daventry,la,E06000062,West Northamptonshire,E06000062,West Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000152,East Northamptonshire,la,E06000061,North Northamptonshire,E06000061,North Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000153,Kettering,la,E06000061,North Northamptonshire,E06000061,North Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000154,Northampton,la,E06000062,West Northamptonshire,E06000062,West Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000155,South Northamptonshire,la,E06000062,West Northamptonshire,E06000062,West Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000156,Wellingborough,la,E06000061,North Northamptonshire,E06000061,North Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000163,Craven,la,E07000163,Craven,E10000023,North Yorkshire,,,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000164,Hambleton,la,E07000164,Hambleton,E10000023,North Yorkshire,,,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000165,Harrogate,la,E07000165,Harrogate,E10000023,North Yorkshire,,,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000166,Richmondshire,la,E07000166,Richmondshire,E10000023,North Yorkshire,,,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000167,Ryedale,la,E07000167,Ryedale,E10000023,North Yorkshire,,,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000168,Scarborough,la,E07000168,Scarborough,E10000023,North Yorkshire,,,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000169,Selby,la,E07000169,Selby,E10000023,North Yorkshire,,,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000170,Ashfield,la,E07000170,Ashfield,E10000024,Nottinghamshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000171,Bassetlaw,la,E07000171,Bassetlaw,E10000024,Nottinghamshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000172,Broxtowe,la,E07000172,Broxtowe,E10000024,Nottinghamshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000173,Gedling,la,E07000173,Gedling,E10000024,Nottinghamshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000174,Mansfield,la,E07000174,Mansfield,E10000024,Nottinghamshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000175,Newark and Sherwood,la,E07000175,Newark and Sherwood,E10000024,Nottinghamshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000176,Rushcliffe,la,E07000176,Rushcliffe,E10000024,Nottinghamshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000177,Cherwell,la,E07000177,Cherwell,E10000025,Oxfordshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000178,Oxford,la,E07000178,Oxford,E10000025,Oxfordshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000179,South Oxfordshire,la,E07000179,South Oxfordshire,E10000025,Oxfordshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000180,Vale of White Horse,la,E07000180,Vale of White Horse,E10000025,Oxfordshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000181,West Oxfordshire,la,E07000181,West Oxfordshire,E10000025,Oxfordshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000187,Mendip,la,E07000187,Mendip,E10000027,Somerset,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000188,Sedgemoor,la,E07000188,Sedgemoor,E10000027,Somerset,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000189,South Somerset,la,E07000189,South Somerset,E10000027,Somerset,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000190,Taunton Deane,la,E07000246,Somerset West and Taunton,E10000027,Somerset,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000191,West Somerset,la,E07000246,Somerset West and Taunton,E10000027,Somerset,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000192,Cannock Chase,la,E07000192,Cannock Chase,E10000028,Staffordshire,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000193,East Staffordshire,la,E07000193,East Staffordshire,E10000028,Staffordshire,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000194,Lichfield,la,E07000194,Lichfield,E10000028,Staffordshire,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000195,Newcastle-under-Lyme,la,E07000195,Newcastle-under-Lyme,E10000028,Staffordshire,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000196,South Staffordshire,la,E07000196,South Staffordshire,E10000028,Staffordshire,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000197,Stafford,la,E07000197,Stafford,E10000028,Staffordshire,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000198,Staffordshire Moorlands,la,E07000198,Staffordshire Moorlands,E10000028,Staffordshire,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000199,Tamworth,la,E07000199,Tamworth,E10000028,Staffordshire,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000200,Babergh,la,E07000200,Babergh,E10000029,Suffolk,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000201,Forest Heath,la,E07000245,West Suffolk,E10000029,Suffolk,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000202,Ipswich,la,E07000202,Ipswich,E10000029,Suffolk,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000203,Mid Suffolk,la,E07000203,Mid Suffolk,E10000029,Suffolk,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000204,St Edmundsbury,la,E07000245,West Suffolk,E10000029,Suffolk,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000205,Suffolk Coastal,la,E07000244,East Suffolk,E10000029,Suffolk,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000206,Waveney,la,E07000244,East Suffolk,E10000029,Suffolk,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000207,Elmbridge,la,E07000207,Elmbridge,E10000030,Surrey,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000208,Epsom and Ewell,la,E07000208,Epsom and Ewell,E10000030,Surrey,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000209,Guildford,la,E07000209,Guildford,E10000030,Surrey,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000210,Mole Valley,la,E07000210,Mole Valley,E10000030,Surrey,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000211,Reigate and Banstead,la,E07000211,Reigate and Banstead,E10000030,Surrey,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000212,Runnymede,la,E07000212,Runnymede,E10000030,Surrey,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000213,Spelthorne,la,E07000213,Spelthorne,E10000030,Surrey,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000214,Surrey Heath,la,E07000214,Surrey Heath,E10000030,Surrey,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000215,Tandridge,la,E07000215,Tandridge,E10000030,Surrey,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000216,Waverley,la,E07000216,Waverley,E10000030,Surrey,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000217,Woking,la,E07000217,Woking,E10000030,Surrey,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000218,North Warwickshire,la,E07000218,North Warwickshire,E10000031,Warwickshire,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000219,Nuneaton and Bedworth,la,E07000219,Nuneaton and Bedworth,E10000031,Warwickshire,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000220,Rugby,la,E07000220,Rugby,E10000031,Warwickshire,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000221,Stratford-on-Avon,la,E07000221,Stratford-on-Avon,E10000031,Warwickshire,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000222,Warwick,la,E07000222,Warwick,E10000031,Warwickshire,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000223,Adur,la,E07000223,Adur,E10000032,West Sussex,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000224,Arun,la,E07000224,Arun,E10000032,West Sussex,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000225,Chichester,la,E07000225,Chichester,E10000032,West Sussex,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000226,Crawley,la,E07000226,Crawley,E10000032,West Sussex,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000227,Horsham,la,E07000227,Horsham,E10000032,West Sussex,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000228,Mid Sussex,la,E07000228,Mid Sussex,E10000032,West Sussex,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000229,Worthing,la,E07000229,Worthing,E10000032,West Sussex,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000234,Bromsgrove,la,E07000234,Bromsgrove,E10000034,Worcestershire,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000235,Malvern Hills,la,E07000235,Malvern Hills,E10000034,Worcestershire,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000236,Redditch,la,E07000236,Redditch,E10000034,Worcestershire,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000237,Worcester,la,E07000237,Worcester,E10000034,Worcestershire,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000238,Wychavon,la,E07000238,Wychavon,E10000034,Worcestershire,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000239,Wyre Forest,la,E07000239,Wyre Forest,E10000034,Worcestershire,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000240,St Albans,la,E07000240,St Albans,E10000015,Hertfordshire,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000241,Welwyn Hatfield,la,E07000241,Welwyn Hatfield,E10000015,Hertfordshire,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000242,East Hertfordshire,la,E07000242,East Hertfordshire,E10000015,Hertfordshire,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000243,Stevenage,la,E07000243,Stevenage,E10000015,Hertfordshire,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000244,East Suffolk,la,E07000244,East Suffolk,E10000029,Suffolk,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000245,West Suffolk,la,E07000245,West Suffolk,E10000029,Suffolk,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E07000246,Somerset West and Taunton,la,E07000246,Somerset West and Taunton,E10000027,Somerset,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000001,Bolton,la,E08000001,Bolton,E08000001,Bolton,E47000001,Greater Manchester,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000002,Bury,la,E08000002,Bury,E08000002,Bury,E47000001,Greater Manchester,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000003,Manchester,la,E08000003,Manchester,E08000003,Manchester,E47000001,Greater Manchester,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000004,Oldham,la,E08000004,Oldham,E08000004,Oldham,E47000001,Greater Manchester,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000005,Rochdale,la,E08000005,Rochdale,E08000005,Rochdale,E47000001,Greater Manchester,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000006,Salford,la,E08000006,Salford,E08000006,Salford,E47000001,Greater Manchester,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000007,Stockport,la,E08000007,Stockport,E08000007,Stockport,E47000001,Greater Manchester,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000008,Tameside,la,E08000008,Tameside,E08000008,Tameside,E47000001,Greater Manchester,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000009,Trafford,la,E08000009,Trafford,E08000009,Trafford,E47000001,Greater Manchester,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000010,Wigan,la,E08000010,Wigan,E08000010,Wigan,E47000001,Greater Manchester,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000011,Knowsley,la,E08000011,Knowsley,E08000011,Knowsley,E47000004,Liverpool City Region,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000012,Liverpool,la,E08000012,Liverpool,E08000012,Liverpool,E47000004,Liverpool City Region,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000013,St. Helens,la,E08000013,St. Helens,E08000013,St. Helens,E47000004,Liverpool City Region,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000014,Sefton,la,E08000014,Sefton,E08000014,Sefton,E47000004,Liverpool City Region,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000015,Wirral,la,E08000015,Wirral,E08000015,Wirral,E47000004,Liverpool City Region,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000016,Barnsley,la,E08000016,Barnsley,E08000016,Barnsley,E47000002,Sheffield City Region,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000017,Doncaster,la,E08000017,Doncaster,E08000017,Doncaster,E47000002,Sheffield City Region,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000018,Rotherham,la,E08000018,Rotherham,E08000018,Rotherham,E47000002,Sheffield City Region,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000019,Sheffield,la,E08000019,Sheffield,E08000019,Sheffield,E47000002,Sheffield City Region,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000020,Gateshead,la,E08000037,Gateshead,E08000037,Gateshead,E47000010,North East,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000021,Newcastle upon Tyne,la,E08000021,Newcastle upon Tyne,E08000021,Newcastle upon Tyne,E47000011,North of Tyne,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000022,North Tyneside,la,E08000022,North Tyneside,E08000022,North Tyneside,E47000011,North of Tyne,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000023,South Tyneside,la,E08000023,South Tyneside,E08000023,South Tyneside,E47000010,North East,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000024,Sunderland,la,E08000024,Sunderland,E08000024,Sunderland,E47000010,North East,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000025,Birmingham,la,E08000025,Birmingham,E08000025,Birmingham,E47000007,West Midlands,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000026,Coventry,la,E08000026,Coventry,E08000026,Coventry,E47000007,West Midlands,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000027,Dudley,la,E08000027,Dudley,E08000027,Dudley,E47000007,West Midlands,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000028,Sandwell,la,E08000028,Sandwell,E08000028,Sandwell,E47000007,West Midlands,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000029,Solihull,la,E08000029,Solihull,E08000029,Solihull,E47000007,West Midlands,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000030,Walsall,la,E08000030,Walsall,E08000030,Walsall,E47000007,West Midlands,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000031,Wolverhampton,la,E08000031,Wolverhampton,E08000031,Wolverhampton,E47000007,West Midlands,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000032,Bradford,la,E08000032,Bradford,E08000032,Bradford,E47000003,West Yorkshire,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000033,Calderdale,la,E08000033,Calderdale,E08000033,Calderdale,E47000003,West Yorkshire,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000034,Kirklees,la,E08000034,Kirklees,E08000034,Kirklees,E47000003,West Yorkshire,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000035,Leeds,la,E08000035,Leeds,E08000035,Leeds,E47000003,West Yorkshire,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000036,Wakefield,la,E08000036,Wakefield,E08000036,Wakefield,E47000003,West Yorkshire,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000037,Gateshead,la,E08000037,Gateshead,E08000037,Gateshead,E47000010,North East,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000001,City of London,la,E09000001,City of London,E09000001,City of London,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000002,Barking and Dagenham,la,E09000002,Barking and Dagenham,E09000002,Barking and Dagenham,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000003,Barnet,la,E09000003,Barnet,E09000003,Barnet,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000004,Bexley,la,E09000004,Bexley,E09000004,Bexley,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000005,Brent,la,E09000005,Brent,E09000005,Brent,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000006,Bromley,la,E09000006,Bromley,E09000006,Bromley,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000007,Camden,la,E09000007,Camden,E09000007,Camden,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000008,Croydon,la,E09000008,Croydon,E09000008,Croydon,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000009,Ealing,la,E09000009,Ealing,E09000009,Ealing,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000010,Enfield,la,E09000010,Enfield,E09000010,Enfield,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000011,Greenwich,la,E09000011,Greenwich,E09000011,Greenwich,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000012,Hackney,la,E09000012,Hackney,E09000012,Hackney,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000013,Hammersmith and Fulham,la,E09000013,Hammersmith and Fulham,E09000013,Hammersmith and Fulham,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000014,Haringey,la,E09000014,Haringey,E09000014,Haringey,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000015,Harrow,la,E09000015,Harrow,E09000015,Harrow,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000016,Havering,la,E09000016,Havering,E09000016,Havering,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000017,Hillingdon,la,E09000017,Hillingdon,E09000017,Hillingdon,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000018,Hounslow,la,E09000018,Hounslow,E09000018,Hounslow,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000019,Islington,la,E09000019,Islington,E09000019,Islington,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000020,Kensington and Chelsea,la,E09000020,Kensington and Chelsea,E09000020,Kensington and Chelsea,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000021,Kingston upon Thames,la,E09000021,Kingston upon Thames,E09000021,Kingston upon Thames,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000022,Lambeth,la,E09000022,Lambeth,E09000022,Lambeth,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000023,Lewisham,la,E09000023,Lewisham,E09000023,Lewisham,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000024,Merton,la,E09000024,Merton,E09000024,Merton,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000025,Newham,la,E09000025,Newham,E09000025,Newham,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000026,Redbridge,la,E09000026,Redbridge,E09000026,Redbridge,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000027,Richmond upon Thames,la,E09000027,Richmond upon Thames,E09000027,Richmond upon Thames,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000028,Southwark,la,E09000028,Southwark,E09000028,Southwark,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000029,Sutton,la,E09000029,Sutton,E09000029,Sutton,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000030,Tower Hamlets,la,E09000030,Tower Hamlets,E09000030,Tower Hamlets,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000031,Waltham Forest,la,E09000031,Waltham Forest,E09000031,Waltham Forest,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000032,Wandsworth,la,E09000032,Wandsworth,E09000032,Wandsworth,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000033,Westminster,la,E09000033,Westminster,E09000033,Westminster,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+N09000001,Antrim and Newtownabbey,la,N09000001,Antrim and Newtownabbey,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+N09000002,"Armagh City, Banbridge and Craigavon",la,N09000002,"Armagh City, Banbridge and Craigavon",N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+N09000003,Belfast,la,N09000003,Belfast,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+N09000004,Causeway Coast and Glens,la,N09000004,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+N09000005,Derry City and Strabane,la,N09000005,Derry City and Strabane,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+N09000006,Fermanagh and Omagh,la,N09000006,Fermanagh and Omagh,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+N09000007,Lisburn and Castlereagh,la,N09000007,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+N09000008,Mid and East Antrim,la,N09000008,Mid and East Antrim,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+N09000009,Mid Ulster,la,N09000009,Mid Ulster,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+N09000010,"Newry, Mourne and Down",la,N09000010,"Newry, Mourne and Down",N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+N09000011,Ards and North Down,la,N09000011,Ards and North Down,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+S12000005,Clackmannanshire,la,S12000005,Clackmannanshire,S12000005,Clackmannanshire,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000006,Dumfries and Galloway,la,S12000006,Dumfries and Galloway,S12000006,Dumfries and Galloway,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000008,East Ayrshire,la,S12000008,East Ayrshire,S12000008,East Ayrshire,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000010,East Lothian,la,S12000010,East Lothian,S12000010,East Lothian,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000011,East Renfrewshire,la,S12000011,East Renfrewshire,S12000011,East Renfrewshire,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000013,Na h-Eileanan Siar,la,S12000013,Na h-Eileanan Siar,S12000013,Na h-Eileanan Siar,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000014,Falkirk,la,S12000014,Falkirk,S12000014,Falkirk,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000015,Fife,la,S12000047,Fife,S12000047,Fife,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000017,Highland,la,S12000017,Highland,S12000017,Highland,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000018,Inverclyde,la,S12000018,Inverclyde,S12000018,Inverclyde,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000019,Midlothian,la,S12000019,Midlothian,S12000019,Midlothian,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000020,Moray,la,S12000020,Moray,S12000020,Moray,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000021,North Ayrshire,la,S12000021,North Ayrshire,S12000021,North Ayrshire,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000023,Orkney Islands,la,S12000023,Orkney Islands,S12000023,Orkney Islands,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000024,Perth and Kinross,la,S12000048,Perth and Kinross,S12000048,Perth and Kinross,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000026,Scottish Borders,la,S12000026,Scottish Borders,S12000026,Scottish Borders,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000027,Shetland Islands,la,S12000027,Shetland Islands,S12000027,Shetland Islands,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000028,South Ayrshire,la,S12000028,South Ayrshire,S12000028,South Ayrshire,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000029,South Lanarkshire,la,S12000029,South Lanarkshire,S12000029,South Lanarkshire,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000030,Stirling,la,S12000030,Stirling,S12000030,Stirling,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000033,Aberdeen City,la,S12000033,Aberdeen City,S12000033,Aberdeen City,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000034,Aberdeenshire,la,S12000034,Aberdeenshire,S12000034,Aberdeenshire,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000035,Argyll and Bute,la,S12000035,Argyll and Bute,S12000035,Argyll and Bute,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000036,City of Edinburgh,la,S12000036,City of Edinburgh,S12000036,City of Edinburgh,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000038,Renfrewshire,la,S12000038,Renfrewshire,S12000038,Renfrewshire,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000039,West Dunbartonshire,la,S12000039,West Dunbartonshire,S12000039,West Dunbartonshire,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000040,West Lothian,la,S12000040,West Lothian,S12000040,West Lothian,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000041,Angus,la,S12000041,Angus,S12000041,Angus,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000042,Dundee City,la,S12000042,Dundee City,S12000042,Dundee City,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000044,North Lanarkshire,la,S12000050,North Lanarkshire,S12000050,North Lanarkshire,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000045,East Dunbartonshire,la,S12000045,East Dunbartonshire,S12000045,East Dunbartonshire,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000046,Glasgow City,la,S12000049,Glasgow City,S12000049,Glasgow City,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000047,Fife,la,S12000047,Fife,S12000047,Fife,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000048,Perth and Kinross,la,S12000048,Perth and Kinross,S12000048,Perth and Kinross,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000049,Glasgow City,la,S12000049,Glasgow City,S12000049,Glasgow City,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000050,North Lanarkshire,la,S12000050,North Lanarkshire,S12000050,North Lanarkshire,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+W06000001,Isle of Anglesey,la,W06000001,Isle of Anglesey,W06000001,Isle of Anglesey,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000002,Gwynedd,la,W06000002,Gwynedd,W06000002,Gwynedd,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000003,Conwy,la,W06000003,Conwy,W06000003,Conwy,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000004,Denbighshire,la,W06000004,Denbighshire,W06000004,Denbighshire,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000005,Flintshire,la,W06000005,Flintshire,W06000005,Flintshire,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000006,Wrexham,la,W06000006,Wrexham,W06000006,Wrexham,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000008,Ceredigion,la,W06000008,Ceredigion,W06000008,Ceredigion,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000009,Pembrokeshire,la,W06000009,Pembrokeshire,W06000009,Pembrokeshire,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000010,Carmarthenshire,la,W06000010,Carmarthenshire,W06000010,Carmarthenshire,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000011,Swansea,la,W06000011,Swansea,W06000011,Swansea,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000012,Neath Port Talbot,la,W06000012,Neath Port Talbot,W06000012,Neath Port Talbot,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000013,Bridgend,la,W06000013,Bridgend,W06000013,Bridgend,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000014,Vale of Glamorgan,la,W06000014,Vale of Glamorgan,W06000014,Vale of Glamorgan,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000015,Cardiff,la,W06000015,Cardiff,W06000015,Cardiff,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000016,Rhondda Cynon Taf,la,W06000016,Rhondda Cynon Taf,W06000016,Rhondda Cynon Taf,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000018,Caerphilly,la,W06000018,Caerphilly,W06000018,Caerphilly,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000019,Blaenau Gwent,la,W06000019,Blaenau Gwent,W06000019,Blaenau Gwent,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000020,Torfaen,la,W06000020,Torfaen,W06000020,Torfaen,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000021,Monmouthshire,la,W06000021,Monmouthshire,W06000021,Monmouthshire,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000022,Newport,la,W06000022,Newport,W06000022,Newport,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000023,Powys,la,W06000023,Powys,W06000023,Powys,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000024,Merthyr Tydfil,la,W06000024,Merthyr Tydfil,W06000024,Merthyr Tydfil,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000001,Hartlepool,utla,,,E06000001,Hartlepool,E47000006,Tees Valley,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000002,Middlesbrough,utla,,,E06000002,Middlesbrough,E47000006,Tees Valley,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000003,Redcar and Cleveland,utla,,,E06000003,Redcar and Cleveland,E47000006,Tees Valley,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000004,Stockton-on-Tees,utla,,,E06000004,Stockton-on-Tees,E47000006,Tees Valley,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000005,Darlington,utla,,,E06000005,Darlington,E47000006,Tees Valley,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000006,Halton,utla,,,E06000006,Halton,E47000004,Liverpool City Region,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000007,Warrington,utla,,,E06000007,Warrington,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000008,Blackburn with Darwen,utla,,,E06000008,Blackburn with Darwen,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000009,Blackpool,utla,,,E06000009,Blackpool,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000010,"Kingston upon Hull, City of",utla,,,E06000010,"Kingston upon Hull, City of",,,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000011,East Riding of Yorkshire,utla,,,E06000011,East Riding of Yorkshire,,,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000012,North East Lincolnshire,utla,,,E06000012,North East Lincolnshire,,,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000013,North Lincolnshire,utla,,,E06000013,North Lincolnshire,,,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000014,York,utla,,,E06000014,York,,,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000015,Derby,utla,,,E06000015,Derby,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000016,Leicester,utla,,,E06000016,Leicester,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000017,Rutland,utla,,,E06000017,Rutland,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000018,Nottingham,utla,,,E06000018,Nottingham,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000019,"Herefordshire, County of",utla,,,E06000019,"Herefordshire, County of",,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000020,Telford and Wrekin,utla,,,E06000020,Telford and Wrekin,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000021,Stoke-on-Trent,utla,,,E06000021,Stoke-on-Trent,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000022,Bath and North East Somerset,utla,,,E06000022,Bath and North East Somerset,E47000009,West of England,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000023,"Bristol, City of",utla,,,E06000023,"Bristol, City of",E47000009,West of England,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000024,North Somerset,utla,,,E06000024,North Somerset,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000025,South Gloucestershire,utla,,,E06000025,South Gloucestershire,E47000009,West of England,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000026,Plymouth,utla,,,E06000026,Plymouth,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000027,Torbay,utla,,,E06000027,Torbay,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000030,Swindon,utla,,,E06000030,Swindon,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000031,Peterborough,utla,,,E06000031,Peterborough,E47000008,Cambridgeshire and Peterborough,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000032,Luton,utla,,,E06000032,Luton,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000033,Southend-on-Sea,utla,,,E06000033,Southend-on-Sea,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000034,Thurrock,utla,,,E06000034,Thurrock,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000035,Medway,utla,,,E06000035,Medway,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000036,Bracknell Forest,utla,,,E06000036,Bracknell Forest,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000037,West Berkshire,utla,,,E06000037,West Berkshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000038,Reading,utla,,,E06000038,Reading,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000039,Slough,utla,,,E06000039,Slough,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000040,Windsor and Maidenhead,utla,,,E06000040,Windsor and Maidenhead,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000041,Wokingham,utla,,,E06000041,Wokingham,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000042,Milton Keynes,utla,,,E06000042,Milton Keynes,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000043,Brighton and Hove,utla,,,E06000043,Brighton and Hove,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000044,Portsmouth,utla,,,E06000044,Portsmouth,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000045,Southampton,utla,,,E06000045,Southampton,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000046,Isle of Wight,utla,,,E06000046,Isle of Wight,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000047,County Durham,utla,,,E06000047,County Durham,E47000010,North East,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000049,Cheshire East,utla,,,E06000049,Cheshire East,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000050,Cheshire West and Chester,utla,,,E06000050,Cheshire West and Chester,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000051,Shropshire,utla,,,E06000051,Shropshire,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000052,Cornwall,utla,,,E06000052,Cornwall,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000053,Isles of Scilly,utla,,,E06000053,Isles of Scilly,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000054,Wiltshire,utla,,,E06000054,Wiltshire,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000055,Bedford,utla,,,E06000055,Bedford,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000056,Central Bedfordshire,utla,,,E06000056,Central Bedfordshire,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000057,Northumberland,utla,,,E06000057,Northumberland,E47000011,North of Tyne,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000058,"Bournemouth, Christchurch and Poole",utla,,,E06000058,"Bournemouth, Christchurch and Poole",,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000059,Dorset,utla,,,E06000059,Dorset,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000060,Buckinghamshire,utla,,,E06000060,Buckinghamshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000061,North Northamptonshire,utla,,,E06000061,North Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000062,West Northamptonshire,utla,,,E06000062,West Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000001,Bolton,utla,,,E08000001,Bolton,E47000001,Greater Manchester,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000002,Bury,utla,,,E08000002,Bury,E47000001,Greater Manchester,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000003,Manchester,utla,,,E08000003,Manchester,E47000001,Greater Manchester,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000004,Oldham,utla,,,E08000004,Oldham,E47000001,Greater Manchester,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000005,Rochdale,utla,,,E08000005,Rochdale,E47000001,Greater Manchester,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000006,Salford,utla,,,E08000006,Salford,E47000001,Greater Manchester,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000007,Stockport,utla,,,E08000007,Stockport,E47000001,Greater Manchester,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000008,Tameside,utla,,,E08000008,Tameside,E47000001,Greater Manchester,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000009,Trafford,utla,,,E08000009,Trafford,E47000001,Greater Manchester,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000010,Wigan,utla,,,E08000010,Wigan,E47000001,Greater Manchester,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000011,Knowsley,utla,,,E08000011,Knowsley,E47000004,Liverpool City Region,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000012,Liverpool,utla,,,E08000012,Liverpool,E47000004,Liverpool City Region,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000013,St. Helens,utla,,,E08000013,St. Helens,E47000004,Liverpool City Region,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000014,Sefton,utla,,,E08000014,Sefton,E47000004,Liverpool City Region,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000015,Wirral,utla,,,E08000015,Wirral,E47000004,Liverpool City Region,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000016,Barnsley,utla,,,E08000016,Barnsley,E47000002,Sheffield City Region,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000017,Doncaster,utla,,,E08000017,Doncaster,E47000002,Sheffield City Region,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000018,Rotherham,utla,,,E08000018,Rotherham,E47000002,Sheffield City Region,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000019,Sheffield,utla,,,E08000019,Sheffield,E47000002,Sheffield City Region,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000021,Newcastle upon Tyne,utla,,,E08000021,Newcastle upon Tyne,E47000011,North of Tyne,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000022,North Tyneside,utla,,,E08000022,North Tyneside,E47000011,North of Tyne,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000023,South Tyneside,utla,,,E08000023,South Tyneside,E47000010,North East,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000024,Sunderland,utla,,,E08000024,Sunderland,E47000010,North East,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000025,Birmingham,utla,,,E08000025,Birmingham,E47000007,West Midlands,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000026,Coventry,utla,,,E08000026,Coventry,E47000007,West Midlands,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000027,Dudley,utla,,,E08000027,Dudley,E47000007,West Midlands,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000028,Sandwell,utla,,,E08000028,Sandwell,E47000007,West Midlands,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000029,Solihull,utla,,,E08000029,Solihull,E47000007,West Midlands,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000030,Walsall,utla,,,E08000030,Walsall,E47000007,West Midlands,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000031,Wolverhampton,utla,,,E08000031,Wolverhampton,E47000007,West Midlands,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000032,Bradford,utla,,,E08000032,Bradford,E47000003,West Yorkshire,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000033,Calderdale,utla,,,E08000033,Calderdale,E47000003,West Yorkshire,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000034,Kirklees,utla,,,E08000034,Kirklees,E47000003,West Yorkshire,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000035,Leeds,utla,,,E08000035,Leeds,E47000003,West Yorkshire,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000036,Wakefield,utla,,,E08000036,Wakefield,E47000003,West Yorkshire,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000037,Gateshead,utla,,,E08000037,Gateshead,E47000010,North East,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000001,City of London,utla,,,E09000001,City of London,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000002,Barking and Dagenham,utla,,,E09000002,Barking and Dagenham,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000003,Barnet,utla,,,E09000003,Barnet,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000004,Bexley,utla,,,E09000004,Bexley,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000005,Brent,utla,,,E09000005,Brent,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000006,Bromley,utla,,,E09000006,Bromley,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000007,Camden,utla,,,E09000007,Camden,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000008,Croydon,utla,,,E09000008,Croydon,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000009,Ealing,utla,,,E09000009,Ealing,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000010,Enfield,utla,,,E09000010,Enfield,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000011,Greenwich,utla,,,E09000011,Greenwich,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000012,Hackney,utla,,,E09000012,Hackney,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000013,Hammersmith and Fulham,utla,,,E09000013,Hammersmith and Fulham,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000014,Haringey,utla,,,E09000014,Haringey,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000015,Harrow,utla,,,E09000015,Harrow,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000016,Havering,utla,,,E09000016,Havering,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000017,Hillingdon,utla,,,E09000017,Hillingdon,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000018,Hounslow,utla,,,E09000018,Hounslow,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000019,Islington,utla,,,E09000019,Islington,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000020,Kensington and Chelsea,utla,,,E09000020,Kensington and Chelsea,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000021,Kingston upon Thames,utla,,,E09000021,Kingston upon Thames,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000022,Lambeth,utla,,,E09000022,Lambeth,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000023,Lewisham,utla,,,E09000023,Lewisham,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000024,Merton,utla,,,E09000024,Merton,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000025,Newham,utla,,,E09000025,Newham,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000026,Redbridge,utla,,,E09000026,Redbridge,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000027,Richmond upon Thames,utla,,,E09000027,Richmond upon Thames,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000028,Southwark,utla,,,E09000028,Southwark,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000029,Sutton,utla,,,E09000029,Sutton,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000030,Tower Hamlets,utla,,,E09000030,Tower Hamlets,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000031,Waltham Forest,utla,,,E09000031,Waltham Forest,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000032,Wandsworth,utla,,,E09000032,Wandsworth,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E09000033,Westminster,utla,,,E09000033,Westminster,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E10000003,Cambridgeshire,utla,,,E10000003,Cambridgeshire,E47000008,Cambridgeshire and Peterborough,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E10000006,Cumbria,utla,,,E10000006,Cumbria,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E10000007,Derbyshire,utla,,,E10000007,Derbyshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E10000008,Devon,utla,,,E10000008,Devon,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E10000011,East Sussex,utla,,,E10000011,East Sussex,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E10000012,Essex,utla,,,E10000012,Essex,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E10000013,Gloucestershire,utla,,,E10000013,Gloucestershire,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E10000014,Hampshire,utla,,,E10000014,Hampshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E10000015,Hertfordshire,utla,,,E10000015,Hertfordshire,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E10000016,Kent,utla,,,E10000016,Kent,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E10000017,Lancashire,utla,,,E10000017,Lancashire,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E10000018,Leicestershire,utla,,,E10000018,Leicestershire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E10000019,Lincolnshire,utla,,,E10000019,Lincolnshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E10000020,Norfolk,utla,,,E10000020,Norfolk,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E10000023,North Yorkshire,utla,,,E10000023,North Yorkshire,,,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E10000024,Nottinghamshire,utla,,,E10000024,Nottinghamshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E10000025,Oxfordshire,utla,,,E10000025,Oxfordshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E10000027,Somerset,utla,,,E10000027,Somerset,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E10000028,Staffordshire,utla,,,E10000028,Staffordshire,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E10000029,Suffolk,utla,,,E10000029,Suffolk,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E10000030,Surrey,utla,,,E10000030,Surrey,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E10000031,Warwickshire,utla,,,E10000031,Warwickshire,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E10000032,West Sussex,utla,,,E10000032,West Sussex,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E10000034,Worcestershire,utla,,,E10000034,Worcestershire,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+N09000001,Antrim and Newtownabbey,utla,,,N09000001,Antrim and Newtownabbey,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+N09000002,"Armagh City, Banbridge and Craigavon",utla,,,N09000002,"Armagh City, Banbridge and Craigavon",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+N09000003,Belfast,utla,,,N09000003,Belfast,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+N09000004,Causeway Coast and Glens,utla,,,N09000004,Causeway Coast and Glens,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+N09000005,Derry City and Strabane,utla,,,N09000005,Derry City and Strabane,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+N09000006,Fermanagh and Omagh,utla,,,N09000006,Fermanagh and Omagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+N09000007,Lisburn and Castlereagh,utla,,,N09000007,Lisburn and Castlereagh,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+N09000008,Mid and East Antrim,utla,,,N09000008,Mid and East Antrim,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+N09000009,Mid Ulster,utla,,,N09000009,Mid Ulster,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+N09000010,"Newry, Mourne and Down",utla,,,N09000010,"Newry, Mourne and Down",,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+N09000011,Ards and North Down,utla,,,N09000011,Ards and North Down,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+S12000005,Clackmannanshire,utla,,,S12000005,Clackmannanshire,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000006,Dumfries and Galloway,utla,,,S12000006,Dumfries and Galloway,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000008,East Ayrshire,utla,,,S12000008,East Ayrshire,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000010,East Lothian,utla,,,S12000010,East Lothian,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000011,East Renfrewshire,utla,,,S12000011,East Renfrewshire,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000013,Na h-Eileanan Siar,utla,,,S12000013,Na h-Eileanan Siar,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000014,Falkirk,utla,,,S12000014,Falkirk,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000017,Highland,utla,,,S12000017,Highland,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000018,Inverclyde,utla,,,S12000018,Inverclyde,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000019,Midlothian,utla,,,S12000019,Midlothian,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000020,Moray,utla,,,S12000020,Moray,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000021,North Ayrshire,utla,,,S12000021,North Ayrshire,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000023,Orkney Islands,utla,,,S12000023,Orkney Islands,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000026,Scottish Borders,utla,,,S12000026,Scottish Borders,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000027,Shetland Islands,utla,,,S12000027,Shetland Islands,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000028,South Ayrshire,utla,,,S12000028,South Ayrshire,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000029,South Lanarkshire,utla,,,S12000029,South Lanarkshire,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000030,Stirling,utla,,,S12000030,Stirling,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000033,Aberdeen City,utla,,,S12000033,Aberdeen City,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000034,Aberdeenshire,utla,,,S12000034,Aberdeenshire,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000035,Argyll and Bute,utla,,,S12000035,Argyll and Bute,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000036,City of Edinburgh,utla,,,S12000036,City of Edinburgh,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000038,Renfrewshire,utla,,,S12000038,Renfrewshire,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000039,West Dunbartonshire,utla,,,S12000039,West Dunbartonshire,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000040,West Lothian,utla,,,S12000040,West Lothian,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000041,Angus,utla,,,S12000041,Angus,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000042,Dundee City,utla,,,S12000042,Dundee City,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000045,East Dunbartonshire,utla,,,S12000045,East Dunbartonshire,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000047,Fife,utla,,,S12000047,Fife,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000048,Perth and Kinross,utla,,,S12000048,Perth and Kinross,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000049,Glasgow City,utla,,,S12000049,Glasgow City,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+S12000050,North Lanarkshire,utla,,,S12000050,North Lanarkshire,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+W06000001,Isle of Anglesey,utla,,,W06000001,Isle of Anglesey,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000002,Gwynedd,utla,,,W06000002,Gwynedd,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000003,Conwy,utla,,,W06000003,Conwy,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000004,Denbighshire,utla,,,W06000004,Denbighshire,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000005,Flintshire,utla,,,W06000005,Flintshire,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000006,Wrexham,utla,,,W06000006,Wrexham,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000008,Ceredigion,utla,,,W06000008,Ceredigion,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000009,Pembrokeshire,utla,,,W06000009,Pembrokeshire,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000010,Carmarthenshire,utla,,,W06000010,Carmarthenshire,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000011,Swansea,utla,,,W06000011,Swansea,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000012,Neath Port Talbot,utla,,,W06000012,Neath Port Talbot,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000013,Bridgend,utla,,,W06000013,Bridgend,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000014,Vale of Glamorgan,utla,,,W06000014,Vale of Glamorgan,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000015,Cardiff,utla,,,W06000015,Cardiff,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000016,Rhondda Cynon Taf,utla,,,W06000016,Rhondda Cynon Taf,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000018,Caerphilly,utla,,,W06000018,Caerphilly,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000019,Blaenau Gwent,utla,,,W06000019,Blaenau Gwent,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000020,Torfaen,utla,,,W06000020,Torfaen,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000021,Monmouthshire,utla,,,W06000021,Monmouthshire,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000022,Newport,utla,,,W06000022,Newport,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000023,Powys,utla,,,W06000023,Powys,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+W06000024,Merthyr Tydfil,utla,,,W06000024,Merthyr Tydfil,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E47000001,Greater Manchester,cauth,,,,,E47000001,Greater Manchester,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E47000002,Sheffield City Region,cauth,,,,,E47000002,Sheffield City Region,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E47000003,West Yorkshire,cauth,,,,,E47000003,West Yorkshire,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E47000004,Liverpool City Region,cauth,,,,,E47000004,Liverpool City Region,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E47000006,Tees Valley,cauth,,,,,E47000006,Tees Valley,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E47000007,West Midlands,cauth,,,,,E47000007,West Midlands,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E47000008,Cambridgeshire and Peterborough,cauth,,,,,E47000008,Cambridgeshire and Peterborough,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E47000009,West of England,cauth,,,,,E47000009,West of England,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E47000010,North East,cauth,,,,,E47000010,North East,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E47000011,North of Tyne,cauth,,,,,E47000011,North of Tyne,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E12000001,North East,rgn,,,,,,,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E12000002,North West,rgn,,,,,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E12000003,Yorkshire and The Humber,rgn,,,,,,,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E12000004,East Midlands,rgn,,,,,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E12000005,West Midlands,rgn,,,,,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E12000006,East of England,rgn,,,,,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E12000007,London,rgn,,,,,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E12000008,South East,rgn,,,,,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E12000009,South West,rgn,,,,,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E92000001,England,ctry,,,,,,,,,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+N92000002,Northern Ireland,ctry,,,,,,,,,N92000002,Northern Ireland,,,,,K02000001,United Kingdom
+S92000003,Scotland,ctry,,,,,,,,,S92000003,Scotland,,,K03000001,Great Britain,K02000001,United Kingdom
+W92000004,Wales,ctry,,,,,,,,,W92000004,Wales,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+K04000001,England and Wales,ew,,,,,,,,,,,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+K03000001,Great Britain,gb,,,,,,,,,,,,,K03000001,Great Britain,K02000001,United Kingdom
+K02000001,United Kingdom,uk,,,,,,,,,,,,,,,K02000001,United Kingdom
