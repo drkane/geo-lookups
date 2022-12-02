@@ -291,7 +291,7 @@ Fields:
 - `area_type` - Entity type of the area
 - `active` - Whether it's a currently active area
 
-## [`area_all_codes.csv`](la_all_codes.csv)
+## [`area_all_codes.csv`](area_all_codes.csv)
 
 Based on `la_all_codes.csv`, this file also adds records for administrative geography at a higher level than local authority districts, so there are records for:
  - upper tier local authorities
@@ -308,6 +308,8 @@ Fields:
 - `areatype` - Type of area. One of (`la`, `utla`, `cauth`, `rgn`, `ctry`, `ew`, `gb`, `uk`)
 - `LADCD` - Local Authority code (the most recent code that covers this area)
 - `LADNM` - Local Authority name (the most recent name that covers this area)
+- `LADCD_ACTIVE` - Local Authority code (the most recent code that covers this area - duplicate with `LADCD` but included for completeness and compatability)
+- `LADNM_ACTIVE` - Local Authority name (the most recent name that covers this area - duplicate with `LADNM` but included for completeness and compatability)
 - `UTLACD` - Upper tier local authority code
 - `UTLANM` - Upper tier local authority name
 - `CAUTHCD` - Combined authority code
