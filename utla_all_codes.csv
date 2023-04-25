@@ -58,6 +58,10 @@ E06000059,Dorset,,,E12000009,South West,E92000001,England,K04000001,England and 
 E06000060,Buckinghamshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E06000061,North Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E06000062,West Northamptonshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000063,Cumberland,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000064,Westmorland and Furness,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000065,North Yorkshire,,,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E06000066,Somerset,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E08000001,Bolton,E47000001,Greater Manchester,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E08000002,Bury,E47000001,Greater Manchester,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E08000003,Manchester,E47000001,Greater Manchester,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
@@ -128,7 +132,6 @@ E09000031,Waltham Forest,,,E12000007,London,E92000001,England,K04000001,England 
 E09000032,Wandsworth,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E09000033,Westminster,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E10000003,Cambridgeshire,E47000008,Cambridgeshire and Peterborough,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
-E10000006,Cumbria,,,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E10000007,Derbyshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E10000008,Devon,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E10000011,East Sussex,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
@@ -141,7 +144,6 @@ E10000017,Lancashire,,,E12000002,North West,E92000001,England,K04000001,England 
 E10000018,Leicestershire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E10000019,Lincolnshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E10000020,Norfolk,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
-E10000023,North Yorkshire,,,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E10000024,Nottinghamshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E10000025,Oxfordshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E10000027,Somerset,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
