@@ -67,18 +67,18 @@ Fields:
 
 ## [`lsoa_la.csv`](lsoa_la.csv)
 
-A record for every Lower Super Output Area from the 2011 census, along with a lookup to the latest Local Authority data.
+A record for every Lower Super Output Area from the 2011 and 2021 censuses, along with a lookup to the latest Local Authority data.
 
-Covers England, Northern Ireland, Scotland and Wales.Uses "Data Zones" for Scotland and "Super Output Areas" for Northern Ireland.
+Covers England, Northern Ireland, Scotland and Wales. Uses "Data Zones" for Scotland (2011 census only). For Northern Ireland the file includes "Super Output Areas" for the 2011 Census and "Data Zones" for the 2021 Census.
 
 Fields:
 
-- `LSOA11CD` - Lower Super Output Area code
-- `LSOA11NM` - Lower Super Output Area name
-- `MSOA11CD` - Middle Super Output Area code
-- `MSOA11NM` - Middle Super Output Area name
-- `MSOA11HCLNM` - Middle Super Output Area name from [House of Commons Library](https://visual.parliament.uk/msoanames)
-- `LAD17CD` - Local Authority (2017) code
+- `LSOACD` - Lower Super Output Area code
+- `LSOANM` - Lower Super Output Area name
+- `MSOACD` - Middle Super Output Area code
+- `MSOANM` - Middle Super Output Area name
+- `MSOAHCLNM` - Middle Super Output Area name in English from [House of Commons Library](https://visual.parliament.uk/msoanames)
+- `MSOAHCLNMW` - Middle Super Output Area name in Welsh from [House of Commons Library](https://visual.parliament.uk/msoanames)
 - `LADCD_ACTIVE` - Local Authority code (the most recent code that covers this area)
 - `LADNM_ACTIVE` - Local Authority name (the most recent name that covers this area)
 - `UTLACD` - Upper tier local authority code
@@ -95,39 +95,51 @@ Fields:
 - `GBNM` - Great Britain name
 - `UKCD` - United Kingdom code
 - `UKNM` - United Kingdom name
+- `LSOA11CD` - Lower Super Output Area code (if code existed in 2011 Census)
+- `LSOA21CD` - Lower Super Output Area code (if code existed in 2021 Census)
+
+The following columns are included for compatability but are deprecated
+and can expected to be removed in future versions:
+
+- `LAD17CD` - Local Authority (2017) code
+- `LAD20CD` - Local Authority (2020) code
+- `LAD20NM` - Local Authority (2020) name
+- `LSOA11NM` - Lower Super Output Area code
+- `MSOA11CD` - Middle Super Output Area code
+- `MSOA11NM` - Middle Super Output Area name
+- `MSOA11HCLNM` - Middle Super Output Area name from [House of Commons Library](https://visual.parliament.uk/msoanames)
 - `TTWA11CD` - Travel to work area code
 - `TTWA11NM` - Travel to work area name
 
-The following columns are included for compatability but are deprecated
-and can expected to be removed in future versions:
-
-- `LAD20CD` - Local Authority (2020) code
-- `LAD20NM` - Local Authority (2020) name
-
 ## [`lsoa_latlong.csv`](lsoa_latlong.csv)
 
-A record for every Lower Super Output Area from the 2011 census, along with the latitude and longitude of the centre of the area.
+A record for every Lower Super Output Area from the 2011 and 2021 censuses, along with the latitude and longitude of the centre of the area.
 
-Covers England, Northern Ireland, Scotland and Wales.Uses "Data Zones" for Scotland and "Super Output Areas" for Northern Ireland. For England and Wales the latitude and longitude centers are population-weighted.
+Covers England, Northern Ireland, Scotland and Wales. Uses "Data Zones" for Scotland (2011 census only). For Northern Ireland the file includes "Super Output Areas" for the 2011 Census and "Data Zones" for the 2021 Census.
 
 Fields:
 
-- `lsoa11cd` - Lower Super Output Area code
+- `LSOACD` - Lower Super Output Area code
 - `longitude` - Longitude of central point
 - `latitude` - Latitude of central point
 
+The following columns are included for compatability but are deprecated
+and can expected to be removed in future versions:
+
+- `lsoa11cd` - Lower Super Output Area code
+
 ## [`msoa_la.csv`](msoa_la.csv)
 
-A record for every Middle Super Output Area from the 2011 census, along with a lookup to the latest Local Authority data.
+A record for every Middle Super Output Area from the 2011 and 2021 censuses, along with a lookup to the latest Local Authority data.
 
-Covers England, Northern Ireland, Scotland and Wales. Uses "Intermediate Zones" for Scotland and "Super Output Areas" for Northern Ireland.
+Covers England, Northern Ireland, Scotland and Wales. Uses "Intermediate Zones" for Scotland (2011 census only). For Northern Ireland the file includes "Super Output Areas" for the 2011 Census and "Super Data Zones" for the 2021 Census.
 
 Fields:
 
-- `MSOA11CD` - Middle Super Output Area code
-- `MSOA11NM` - Middle Super Output Area name
-- `MSOA11HCLNM` - Middle Super Output Area name from [House of Commons Library](https://visual.parliament.uk/msoanames)
-- `LAD17CD` - Local Authority (2017) code
+- `MSOACD` - Middle Super Output Area code
+- `MSOANM` - Middle Super Output Area name
+- `MSOAHCLNM` - Middle Super Output Area name in English from [House of Commons Library](https://visual.parliament.uk/msoanames)
+- `MSOAHCLNMW` - Middle Super Output Area name in Welsh from [House of Commons Library](https://visual.parliament.uk/msoanames)
 - `LADCD_ACTIVE` - Local Authority code (the most recent code that covers this area)
 - `LADNM_ACTIVE` - Local Authority name (the most recent name that covers this area)
 - `UTLACD` - Upper tier local authority code
@@ -144,24 +156,34 @@ Fields:
 - `GBNM` - Great Britain name
 - `UKCD` - United Kingdom code
 - `UKNM` - United Kingdom name
+- `MSOA11CD` - Middle Super Output Area code (if code existed in 2011 Census)
+- `MSOA21CD` - Middle Super Output Area code (if code existed in 2021 Census)
 
 The following columns are included for compatability but are deprecated
 and can expected to be removed in future versions:
 
+- `LAD17CD` - Local Authority (2017) code
 - `LAD20CD` - Local Authority (2020) code
 - `LAD20NM` - Local Authority (2020) name
+- `MSOA11NM` - Middle Super Output Area name
+- `MSOA11HCLNM` - Middle Super Output Area name from [House of Commons Library](https://visual.parliament.uk/msoanames)
 
 ## [`msoa_latlong.csv`](msoa_latlong.csv)
 
-A record for every Middle Super Output Area from the 2011 census, along with the latitude and longitude of the centre of the area.
+A record for every Middle Super Output Area from the 2011 and 2021 censuses, along with the latitude and longitude of the centre of the area.
 
-Covers England, Northern Ireland, Scotland and Wales.Uses "Intermediate Zones" for Scotland and "Super Output Areas" for Northern Ireland. For England and Wales the latitude and longitude centers are population-weighted.
+Covers England, Northern Ireland, Scotland and Wales. Uses "Intermediate Zones" for Scotland (2011 census only). For Northern Ireland the file includes "Super Output Areas" for the 2011 Census and "Super Data Zones" for the 2021 Census.
 
 Fields:
 
-- `msoa11cd` - Lower Super Output Area code
+- `MSOACD` - Middle Super Output Area code
 - `longitude` - Longitude of central point
 - `latitude` - Latitude of central point
+
+The following columns are included for compatability but are deprecated
+and can expected to be removed in future versions:
+
+- `msoa11cd` - Middle Super Output Area code
 
 ## [`ward_all_codes.csv`](ward_all_codes.csv)
 
