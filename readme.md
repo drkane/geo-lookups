@@ -347,6 +347,23 @@ Fields:
 - `UKCD` - United Kingdom code
 - `UKNM` - United Kingdom name
 
+## Other files
+
+### [`lieutenancy_areas_england.csv`](misc/lieutenancy_areas_england.csv)
+
+A list of the [lieutenancy areas of England](https://en.wikipedia.org/wiki/Ceremonial_counties_of_England#Lieutenancy_areas_since_1997) from 1997, based on data from Wikidata and Wikipedia, mapped to current and former local authority codes. These are sometimes known as ceremonial counties.
+
+Note that according to Wikipedia the local authority areas have a 1:1 match with the boundaries of ceremonial areas, with the exception of Stockton-on-Tees (`E06000004`) which is shared between County Durham (north of the Tees) and North Yorkshire (south of the Tees). For the purposes of this list Stockton-on-Tees has been allocated to County Durham, but this is not completely accurate.
+
+- `LADCD` - Local Authority code (includes areas that are no longer active)
+- `LADNM` - Local Authority name (includes areas that are no longer active)
+- `LADCD_ACTIVE` - Local Authority code (the most recent code that covers this area)
+- `LADNM_ACTIVE` - Local Authority name (the most recent name that covers this area)
+- `UTLACD` - Upper tier local authority code
+- `UTLANM` - Upper tier local authority name
+- `LIEUTENANCY_AREA_1997` - The name of the Lieutenancy Area as defined by the Lieutenancies Act 1997
+- `LIEUTENANCY_AREA_1997_WIKIDATA` - Wikidata code for the Lieutenancy Area
+
 ## Data sources
 
 Data is sourced from the [ONS Geoportal](http://geoportal.statistics.gov.uk/) and used under the Open Government Licence v3.0. 
