@@ -288,10 +288,12 @@ E08000012,Liverpool,E08000012,Liverpool,E08000012,Liverpool,Merseyside,Q23100
 E08000013,St. Helens,E08000013,St. Helens,E08000013,St. Helens,Merseyside,Q23100
 E08000014,Sefton,E08000014,Sefton,E08000014,Sefton,Merseyside,Q23100
 E08000015,Wirral,E08000015,Wirral,E08000015,Wirral,Merseyside,Q23100
-E08000016,Barnsley,E08000016,Barnsley,E08000016,Barnsley,South Yorkshire,Q23095
+E08000016,Barnsley,E08000038,Barnsley,E08000038,Barnsley,South Yorkshire,Q23095
+E08000038,Barnsley,E08000038,Barnsley,E08000038,Barnsley,South Yorkshire,Q23095
 E08000017,Doncaster,E08000017,Doncaster,E08000017,Doncaster,South Yorkshire,Q23095
 E08000018,Rotherham,E08000018,Rotherham,E08000018,Rotherham,South Yorkshire,Q23095
-E08000019,Sheffield,E08000019,Sheffield,E08000019,Sheffield,South Yorkshire,Q23095
+E08000019,Sheffield,E08000039,Sheffield,E08000039,Sheffield,South Yorkshire,Q23095
+E08000039,Sheffield,E08000039,Sheffield,E08000039,Sheffield,South Yorkshire,Q23095
 E08000020,Gateshead,E08000037,Gateshead,E08000037,Gateshead,Tyne and Wear,Q23080
 E08000021,Newcastle upon Tyne,E08000021,Newcastle upon Tyne,E08000021,Newcastle upon Tyne,Tyne and Wear,Q23080
 E08000022,North Tyneside,E08000022,North Tyneside,E08000022,North Tyneside,Tyne and Wear,Q23080

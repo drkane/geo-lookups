@@ -77,10 +77,8 @@ E08000012,Liverpool,E47000004,Liverpool City Region,E12000002,North West,E920000
 E08000013,St. Helens,E47000004,Liverpool City Region,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E08000014,Sefton,E47000004,Liverpool City Region,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E08000015,Wirral,E47000004,Liverpool City Region,E12000002,North West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
-E08000016,Barnsley,E47000002,Sheffield City Region,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E08000017,Doncaster,E47000002,Sheffield City Region,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E08000018,Rotherham,E47000002,Sheffield City Region,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
-E08000019,Sheffield,E47000002,Sheffield City Region,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E08000021,Newcastle upon Tyne,E47000011,North of Tyne,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E08000022,North Tyneside,E47000011,North of Tyne,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E08000023,South Tyneside,E47000010,North East,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
@@ -98,6 +96,8 @@ E08000034,Kirklees,E47000003,West Yorkshire,E12000003,Yorkshire and The Humber,E
 E08000035,Leeds,E47000003,West Yorkshire,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E08000036,Wakefield,E47000003,West Yorkshire,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E08000037,Gateshead,E47000010,North East,E12000001,North East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000038,Barnsley,E47000002,Sheffield City Region,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
+E08000039,Sheffield,E47000002,Sheffield City Region,E12000003,Yorkshire and The Humber,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E09000001,City of London,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E09000002,Barking and Dagenham,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E09000003,Barnet,,,E12000007,London,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
@@ -146,7 +146,6 @@ E10000019,Lincolnshire,,,E12000004,East Midlands,E92000001,England,K04000001,Eng
 E10000020,Norfolk,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E10000024,Nottinghamshire,,,E12000004,East Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E10000025,Oxfordshire,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
-E10000027,Somerset,,,E12000009,South West,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E10000028,Staffordshire,,,E12000005,West Midlands,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E10000029,Suffolk,,,E12000006,East of England,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
 E10000030,Surrey,,,E12000008,South East,E92000001,England,K04000001,England and Wales,K03000001,Great Britain,K02000001,United Kingdom
